@@ -1,0 +1,13 @@
+WARNING: Illegal value specified for pad fill line width.
+         Pads will be exported unfilled.
+Reading Layer Conversion File 
+Layer conversion file: C:/Cadence/SPB_22.1/share/pcb/text/dlibx2iff.cnv
+DXF file: C:/Users/SNIPER/Desktop/POE_DXF.dxf
+BRD file: F:/3-MyLaptopDIR/DPU_PoE_Version/PCB/DPU_PoE_A1_Oct-13.brd
+Export symbols as blocks?: NO
+Default symbol height: 0.00
+Export padstacks as blocks?: YES
+Export drill information?: NO
+DXF units: MILLIMETERS
+DXF precision: 4
+a2dxf complete.

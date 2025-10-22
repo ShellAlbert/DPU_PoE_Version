@@ -1,0 +1,415 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : DPU_PoE_A1_Sep21.brd                          )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Mon Sep 22 12:59:02 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  EIO-8                TOP                   0.1000     *(68.4000 -3.3000) to  (68.4000 -3.4000)
+  EIO-7                TOP                   0.1000     *(68.0000 -3.3000) to  (68.0000 -3.4000)
+  EIO-6                TOP                   0.1000     *(66.4000 -3.3000) to  (66.4000 -3.4000)
+  EIO-5                TOP                   0.1000     *(70.0000 -3.3000) to  (70.0000 -3.4000)
+  EIO-4                TOP                   0.1000     *(66.8000 -3.3000) to  (66.8000 -3.4000)
+  EIO-1                TOP                   0.1000     *(69.6000 -3.3000) to  (69.6000 -3.4000)
+  EIO-3                TOP                   0.1000     *(64.8000 -3.3000) to  (64.8000 -3.4000)
+  EIO-2                TOP                   0.1000     *(65.2000 -3.3000) to  (65.2000 -3.4000)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  TP_P2                VIA0D3_0D15          (50.5371 -10.3329) TOP/BOTTOM 
+  P1V8                 VIA0D40_0D2          (39.8500 -26.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (9.0000 -19.5100) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (10.5000 -3.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (11.4000 -3.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.3500 -14.7000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -14.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -15.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -16.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.3500 -16.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -17.0730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (12.8500 -15.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (13.7000 -15.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (16.3000 -22.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.5000 -23.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (15.4000 -22.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.5000 -9.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (16.2000 -8.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (17.0000 -8.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.7000 -19.0500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.7000 -19.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -14.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -13.4000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -11.0000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -12.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (30.8000 -10.6000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (30.8000 -11.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (32.1000 -25.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (31.6000 -24.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (37.2500 -27.6000) TOP/BOTTOM 
+  GND                  VIA0D25_0D15         (34.7000 -20.2750) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (38.6629 -21.4071) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (51.3950 -9.4650) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (55.3000 -9.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (58.0000 -5.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (58.0000 -6.0000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (61.8500 -10.9500) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (65.6000 -22.9500) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (66.4000 -22.9270) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (66.0000 -22.5000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (70.5249 -20.1249) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (79.2280 -2.8090) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (71.2000 -25.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.9000 -11.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.9000 -12.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (19.7000 -12.8730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (20.5000 -12.8730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.0000 -3.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.8000 -3.1050) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (25.8270 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (26.9000 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.5000 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (31.0500 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (32.3000 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (33.5500 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (57.4500 -25.9500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (8.2000 -11.9500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (38.1500 -27.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (27.3770 -25.8000) TOP/BOTTOM 
+  IR_5V0               VIA0D40_0D2          (30.7500 -21.6000) TOP/BOTTOM 
+  Dummy Net            VIA0D3_0D15          (50.5850 -12.6850) TOP/BOTTOM 
+  Dummy Net            VIA0D3_0D15          (45.7371 -11.9329) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  UPLD_TXD2            VIA0D3_0D15          (73.0000 -26.0000) TOP/BOTTOM 
+  UPLD_TXD2            VIA0D3_0D15          (48.9850 -12.6850) TOP/BOTTOM 
+  UPLD_TXD1            VIA0D3_0D15          (75.3000 -6.1000) TOP/BOTTOM 
+  UPLD_TXD1            VIA0D3_0D15          (55.8000 -8.6000) TOP/BOTTOM 
+  BIO-7                VIA0D3_0D15          (58.6500 -27.5500) TOP/BOTTOM 
+  PWR_EN1              VIA0D3_0D15          (13.0500 -17.9500) TOP/BOTTOM 
+  PWR_EN1              VIA0D3_0D15          (7.7000 -18.2000) TOP/BOTTOM 
+  PWR_EN1              VIA0D3_0D15          (7.9500 -15.6500) TOP/BOTTOM 
+  PWR_EN2              VIA0D3_0D15          (8.0000 -14.4000) TOP/BOTTOM 
+  PWR_EN2              VIA0D3_0D15          (7.8000 -8.2000) TOP/BOTTOM 
+  BIO-6                VIA0D3_0D15          (57.9500 -27.1500) TOP/BOTTOM 
+  BIO-5                VIA0D3_0D15          (54.5000 -26.3500) TOP/BOTTOM 
+  IR_D15               VIA0D3_0D15          (38.6629 -11.9329) TOP/BOTTOM 
+  IR_D15               VIA0D25_0D15         (30.8000 -15.4000) TOP/BOTTOM 
+  IR_D14               VIA0D3_0D15          (42.6629 -13.5329) TOP/BOTTOM 
+  IR_D14               VIA0D25_0D15         (34.4500 -15.3000) TOP/BOTTOM 
+  P3V3A                VIA0D40_0D2          (71.5000 -13.4500) TOP/BOTTOM 
+  P3V3                 VIA0D40_0D2          (79.3000 -27.6000) TOP/BOTTOM 
+  P3V3                 VIA0D40_0D2          (86.2000 -23.9000) TOP/BOTTOM 
+  P3V3                 VIA0D40_0D2          (67.1500 -16.7000) TOP/BOTTOM 
+  P3V3                 VIA0D40_0D2          (86.2730 -5.8000) TOP/BOTTOM 
+  LINKLED              VIA0D3_0D15          (63.2270 -17.7500) TOP/BOTTOM 
+  ACTLED               VIA0D3_0D15          (63.2270 -16.7500) TOP/BOTTOM 
+  TP_P2                VIA0D3_0D15          (50.5371 -10.3329) TOP/BOTTOM 
+  H2_RST               VIA0D3_0D15          (43.4629 -10.3329) TOP/BOTTOM 
+  H1_RST               VIA0D3_0D15          (47.3650 -11.0350) TOP/BOTTOM 
+  H1_D1                VIA0D3_0D15          (45.7371 -9.5329) TOP/BOTTOM 
+  H1_D1                VIA0D25_0D15         (49.2413 -4.5013) TOP/BOTTOM 
+  H1_D0                VIA0D3_0D15          (46.5371 -10.3329) TOP/BOTTOM 
+  H1_D0                VIA0D25_0D15         (50.2425 -5.0025) TOP/BOTTOM 
+  H1_RWDS1             VIA0D3_0D15          (45.7371 -11.1329) TOP/BOTTOM 
+  H1_RWDS1             VIA0D25_0D15         (50.2425 -6.0025) TOP/BOTTOM 
+  H1_RWDS0             VIA0D3_0D15          (49.7371 -9.5329) TOP/BOTTOM 
+  H1_RWDS0             VIA0D25_0D15         (50.2425 -4.5025) TOP/BOTTOM 
+  H1_CKN               VIA0D3_0D15          (45.7371 -8.7329) TOP/BOTTOM 
+  H1_CKN               VIA0D25_0D15         (48.7375 -4.0025) TOP/BOTTOM 
+  H1_CKP               VIA0D3_0D15          (46.5371 -8.7329) TOP/BOTTOM 
+  H1_CKP               VIA0D25_0D15         (49.2375 -4.0025) TOP/BOTTOM 
+  H1_CS                VIA0D3_0D15          (48.1371 -10.3329) TOP/BOTTOM 
+  H1_D15               VIA0D3_0D15          (44.9371 -11.1329) TOP/BOTTOM 
+  H1_D15               VIA0D25_0D15         (48.9900 -6.6900) TOP/BOTTOM 
+  H1_D14               VIA0D3_0D15          (44.9650 -13.4350) TOP/BOTTOM 
+  H1_D14               VIA0D25_0D15         (51.8700 -6.6300) TOP/BOTTOM 
+  H1_D13               VIA0D3_0D15          (44.9850 -10.2850) TOP/BOTTOM 
+  H1_D13               VIA0D25_0D15         (48.2413 -6.4987) TOP/BOTTOM 
+  H1_D12               VIA0D3_0D15          (44.9850 -11.8850) TOP/BOTTOM 
+  H1_D12               VIA0D25_0D15         (50.5000 -6.7000) TOP/BOTTOM 
+  H1_D11               VIA0D3_0D15          (45.7371 -10.3329) TOP/BOTTOM 
+  H1_D11               VIA0D25_0D15         (48.7413 -5.9987) TOP/BOTTOM 
+  H1_D10               VIA0D3_0D15          (45.7650 -13.4350) TOP/BOTTOM 
+  H1_D10               VIA0D25_0D15         (51.7387 -5.9987) TOP/BOTTOM 
+  H1_D9                VIA0D3_0D15          (44.9550 -9.5150) TOP/BOTTOM 
+  H1_D9                VIA0D25_0D15         (48.2413 -5.9987) TOP/BOTTOM 
+  H1_D8                VIA0D3_0D15          (44.1700 -12.7000) TOP/BOTTOM 
+  H1_D8                VIA0D25_0D15         (50.7387 -5.9987) TOP/BOTTOM 
+  H1_D7                VIA0D3_0D15          (46.5371 -9.5329) TOP/BOTTOM 
+  H1_D7                VIA0D25_0D15         (48.7413 -5.4987) TOP/BOTTOM 
+  H1_D6                VIA0D3_0D15          (47.3850 -9.4850) TOP/BOTTOM 
+  H1_D6                VIA0D25_0D15         (49.2375 -5.5025) TOP/BOTTOM 
+  H1_D5                VIA0D25_0D15         (49.7413 -5.4987) TOP/BOTTOM 
+  H1_D5                VIA0D3_0D15          (48.1500 -9.5000) TOP/BOTTOM 
+  H1_D4                VIA0D3_0D15          (48.9371 -10.3329) TOP/BOTTOM 
+  H1_D4                VIA0D25_0D15         (51.2425 -4.4975) TOP/BOTTOM 
+  H1_D3                VIA0D3_0D15          (48.9600 -9.5100) TOP/BOTTOM 
+  H1_D3                VIA0D25_0D15         (50.7425 -5.0025) TOP/BOTTOM 
+  H1_D2                VIA0D3_0D15          (49.7371 -10.3329) TOP/BOTTOM 
+  H1_D2                VIA0D25_0D15         (50.7387 -4.0013) TOP/BOTTOM 
+  H2_D3                VIA0D3_0D15          (41.8629 -9.5329) TOP/BOTTOM 
+  H2_D3                VIA0D25_0D15         (40.7387 -4.9987) TOP/BOTTOM 
+  H2_RWDS1             VIA0D3_0D15          (41.0629 -11.9329) TOP/BOTTOM 
+  H2_RWDS1             VIA0D25_0D15         (39.7375 -6.0025) TOP/BOTTOM 
+  H2_RWDS0             VIA0D3_0D15          (42.6629 -9.5329) TOP/BOTTOM 
+  H2_RWDS0             VIA0D25_0D15         (40.2425 -4.5025) TOP/BOTTOM 
+  H2_CKN               VIA0D25_0D15         (39.2375 -4.0025) TOP/BOTTOM 
+  H2_CKN               VIA0D3_0D15          (39.4629 -8.7329) TOP/BOTTOM 
+  H2_CKP               VIA0D25_0D15         (39.7419 -4.0030) TOP/BOTTOM 
+  H2_CKP               VIA0D3_0D15          (40.2629 -8.7329) TOP/BOTTOM 
+  H2_CS                VIA0D3_0D15          (43.4629 -9.5329) TOP/BOTTOM 
+  H2_D2                VIA0D3_0D15          (42.6629 -10.3329) TOP/BOTTOM 
+  H2_D2                VIA0D25_0D15         (40.7387 -4.0013) TOP/BOTTOM 
+  H2_D0                VIA0D3_0D15          (41.8629 -11.1329) TOP/BOTTOM 
+  H2_D0                VIA0D25_0D15         (40.2425 -5.0025) TOP/BOTTOM 
+  H2_D5                VIA0D3_0D15          (41.0629 -9.5329) TOP/BOTTOM 
+  H2_D5                VIA0D25_0D15         (40.2425 -5.5025) TOP/BOTTOM 
+  H2_D4                VIA0D3_0D15          (42.6629 -11.1329) TOP/BOTTOM 
+  H2_D4                VIA0D25_0D15         (41.2425 -4.4975) TOP/BOTTOM 
+  H2_D11               VIA0D3_0D15          (39.4629 -9.5329) TOP/BOTTOM 
+  H2_D11               VIA0D25_0D15         (38.7413 -5.9987) TOP/BOTTOM 
+  H2_D1                VIA0D3_0D15          (41.0629 -11.1329) TOP/BOTTOM 
+  H2_D1                VIA0D25_0D15         (39.2413 -4.9987) TOP/BOTTOM 
+  H2_D10               VIA0D3_0D15          (43.4629 -11.1329) TOP/BOTTOM 
+  H2_D10               VIA0D25_0D15         (41.7387 -5.9987) TOP/BOTTOM 
+  H2_D12               VIA0D3_0D15          (41.8629 -11.9329) TOP/BOTTOM 
+  H2_D12               VIA0D25_0D15         (40.3000 -6.7000) TOP/BOTTOM 
+  H2_D14               VIA0D3_0D15          (44.1850 -11.8850) TOP/BOTTOM 
+  H2_D14               VIA0D25_0D15         (41.8200 -6.5800) TOP/BOTTOM 
+  H2_D13               VIA0D3_0D15          (39.4629 -10.3329) TOP/BOTTOM 
+  H2_D13               VIA0D25_0D15         (38.1200 -6.6200) TOP/BOTTOM 
+  H2_D7                VIA0D3_0D15          (40.2629 -10.3329) TOP/BOTTOM 
+  H2_D7                VIA0D25_0D15         (38.7358 -4.9992) TOP/BOTTOM 
+  H2_D8                VIA0D3_0D15          (42.6629 -11.9329) TOP/BOTTOM 
+  H2_D8                VIA0D25_0D15         (40.7387 -5.9987) TOP/BOTTOM 
+  H2_D9                VIA0D3_0D15          (39.4629 -11.1329) TOP/BOTTOM 
+  H2_D9                VIA0D25_0D15         (38.2413 -5.9987) TOP/BOTTOM 
+  H2_D15               VIA0D3_0D15          (40.2629 -11.1329) TOP/BOTTOM 
+  H2_D15               VIA0D25_0D15         (38.9000 -6.7000) TOP/BOTTOM 
+  H2_D6                VIA0D3_0D15          (40.2629 -9.5329) TOP/BOTTOM 
+  H2_D6                VIA0D25_0D15         (39.7425 -4.9975) TOP/BOTTOM 
+  IR_PWR_EN            VIA0D3_0D15          (46.6000 -11.9000) TOP/BOTTOM 
+  P5V0                 VIA0D40_0D2          (13.8000 -3.8000) TOP/BOTTOM 
+  P5V0                 VIA0D40_0D2          (9.3500 -17.9500) TOP/BOTTOM 
+  P5V0                 VIA0D40_0D2          (10.0500 -17.9500) TOP/BOTTOM 
+  P5V0                 VIA0D40_0D2          (10.7000 -17.9500) TOP/BOTTOM 
+  P5V0                 VIA0D25_0D15         (16.2000 -15.0000) TOP/BOTTOM 
+  P5V0                 VIA0D25_0D15         (21.4500 -15.0000) TOP/BOTTOM 
+  P2V8                 VIA0D40_0D2          (32.2000 -27.6500) TOP/BOTTOM 
+  P2V8                 VIA0D3_0D15          (68.4000 -22.9500) TOP/BOTTOM 
+  P2V8                 VIA0D3_0D15          (67.6000 -22.9500) TOP/BOTTOM 
+  P2V8                 VIA0D40_0D2          (68.8000 -22.5000) TOP/BOTTOM 
+  P2V8                 VIA0D40_0D2          (61.8500 -9.9500) TOP/BOTTOM 
+  P2V8                 VIA0D40_0D2          (26.3500 -27.2000) TOP/BOTTOM 
+  P1V8                 VIA0D40_0D2          (39.8500 -26.2000) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (44.9850 -19.8850) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (45.0450 -14.2250) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (60.7000 -12.0000) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (60.7000 -8.6000) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (57.5000 -10.7000) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (48.2100 -15.0600) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (46.5371 -16.6071) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (46.5371 -17.4071) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (45.7371 -17.4071) TOP/BOTTOM 
+  P1V8                 VIA0D40_0D2          (39.5500 -25.0500) TOP/BOTTOM 
+  P1V8                 VIA0D3_0D15          (27.3770 -25.2560) TOP/BOTTOM 
+  P1V8                 VIA0D40_0D2          (34.5000 -5.6000) TOP/BOTTOM 
+  P1V8                 VIA0D25_0D15         (51.7000 -2.4000) TOP/BOTTOM 
+  P1V8                 VIA0D25_0D15         (41.6903 -2.4200) TOP/BOTTOM 
+  P1V8                 VIA0D25_0D15         (39.1040 -2.6000) TOP/BOTTOM 
+  BIO-1                VIA0D3_0D15          (54.5000 -25.5500) TOP/BOTTOM 
+  BIO-4                VIA0D3_0D15          (58.6500 -26.7500) TOP/BOTTOM 
+  BIO-3                VIA0D3_0D15          (54.1000 -25.9500) TOP/BOTTOM 
+  IR_D4                VIA0D3_0D15          (43.4629 -16.6071) TOP/BOTTOM 
+  IR_D4                VIA0D25_0D15         (33.1500 -17.8000) TOP/BOTTOM 
+  IR_D13               VIA0D3_0D15          (41.8629 -12.7329) TOP/BOTTOM 
+  IR_D13               VIA0D25_0D15         (30.5820 -15.8000) TOP/BOTTOM 
+  IR_D9                VIA0D3_0D15          (39.4629 -14.3329) TOP/BOTTOM 
+  IR_D9                VIA0D25_0D15         (28.5780 -16.6000) TOP/BOTTOM 
+  JTAG_EN              VIA0D3_0D15          (55.5000 -24.6000) TOP/BOTTOM 
+  JTAG_EN              VIA0D3_0D15          (43.3850 -19.0850) TOP/BOTTOM 
+  TDO                  VIA0D3_0D15          (40.2629 -18.2071) TOP/BOTTOM 
+  TDI                  VIA0D3_0D15          (42.6629 -17.4071) TOP/BOTTOM 
+  TMS                  VIA0D3_0D15          (42.6629 -18.2071) TOP/BOTTOM 
+  PROGRAM_N            VIA0D3_0D15          (41.8629 -19.8071) TOP/BOTTOM 
+  TCK                  VIA0D3_0D15          (40.2629 -17.4071) TOP/BOTTOM 
+  MD3                  VIA0D3_0D15          (35.8730 -24.7000) TOP/BOTTOM 
+  MD3                  VIA0D3_0D15          (41.8350 -19.0350) TOP/BOTTOM 
+  MD2                  VIA0D3_0D15          (28.4000 -25.9400) TOP/BOTTOM 
+  MD2                  VIA0D3_0D15          (39.4629 -19.0071) TOP/BOTTOM 
+  MD1                  VIA0D3_0D15          (38.6350 -19.0350) TOP/BOTTOM 
+  MD1                  VIA0D3_0D15          (28.4000 -24.6700) TOP/BOTTOM 
+  MD0                  VIA0D3_0D15          (35.7900 -27.2100) TOP/BOTTOM 
+  MD0                  VIA0D3_0D15          (40.2629 -19.8071) TOP/BOTTOM 
+  MCSN                 VIA0D3_0D15          (39.4629 -19.8071) TOP/BOTTOM 
+  MCSN                 VIA0D3_0D15          (30.1470 -23.4000) TOP/BOTTOM 
+  INIT_N               VIA0D3_0D15          (42.5850 -19.0850) TOP/BOTTOM 
+  INIT_N               VIA0D3_0D15          (39.7000 -23.0000) TOP/BOTTOM 
+  SYS_CLK              VIA0D3_0D15          (52.6000 -19.0500) TOP/BOTTOM 
+  SYS_CLK              VIA0D3_0D15          (48.9500 -19.0500) TOP/BOTTOM 
+  DVP_D2               VIA0D3_0D15          (58.3230 -19.7500) TOP/BOTTOM 
+  DVP_D2               VIA0D3_0D15          (46.5850 -19.0850) TOP/BOTTOM 
+  DVP_D1               VIA0D3_0D15          (57.9000 -19.2500) TOP/BOTTOM 
+  DVP_D1               VIA0D3_0D15          (46.6100 -18.2600) TOP/BOTTOM 
+  DVP_D3               VIA0D3_0D15          (58.3230 -18.7500) TOP/BOTTOM 
+  DVP_D3               VIA0D3_0D15          (47.4000 -18.3000) TOP/BOTTOM 
+  DVP_D0               VIA0D3_0D15          (57.8500 -18.2500) TOP/BOTTOM 
+  DVP_D0               VIA0D3_0D15          (48.2000 -18.3000) TOP/BOTTOM 
+  DVP_D4               VIA0D3_0D15          (58.3230 -17.7500) TOP/BOTTOM 
+  DVP_D4               VIA0D3_0D15          (48.1900 -19.0600) TOP/BOTTOM 
+  DVP_PCLK             VIA0D3_0D15          (57.8500 -17.2500) TOP/BOTTOM 
+  DVP_PCLK             VIA0D3_0D15          (48.9371 -17.4071) TOP/BOTTOM 
+  DVP_D5               VIA0D3_0D15          (58.3230 -16.7500) TOP/BOTTOM 
+  DVP_D5               VIA0D3_0D15          (47.3371 -17.4071) TOP/BOTTOM 
+  DVP_D6               VIA0D3_0D15          (49.7900 -16.6600) TOP/BOTTOM 
+  DVP_D6               VIA0D3_0D15          (58.3230 -15.7500) TOP/BOTTOM 
+  DVP_D7               VIA0D3_0D15          (58.3230 -14.7500) TOP/BOTTOM 
+  DVP_D7               VIA0D3_0D15          (50.5650 -15.8350) TOP/BOTTOM 
+  DVP_HSYNC            VIA0D3_0D15          (57.7000 -13.2500) TOP/BOTTOM 
+  DVP_HSYNC            VIA0D3_0D15          (49.7900 -15.8600) TOP/BOTTOM 
+  DVP_VSYNC            VIA0D3_0D15          (48.9900 -15.8600) TOP/BOTTOM 
+  DVP_VSYNC            VIA0D3_0D15          (57.3500 -12.2500) TOP/BOTTOM 
+  DVP_PWDN             VIA0D3_0D15          (50.5850 -14.2850) TOP/BOTTOM 
+  DVP_PWDN             VIA0D3_0D15          (58.3230 -12.7500) TOP/BOTTOM 
+  DVP_SCL              VIA0D3_0D15          (49.7600 -12.7100) TOP/BOTTOM 
+  DVP_SDA              VIA0D3_0D15          (50.5371 -11.9329) TOP/BOTTOM 
+  DVP_RST              VIA0D3_0D15          (58.3230 -11.7500) TOP/BOTTOM 
+  DVP_RST              VIA0D3_0D15          (48.1850 -14.2850) TOP/BOTTOM 
+  IR_D7                VIA0D25_0D15         (28.5780 -17.0000) TOP/BOTTOM 
+  IR_D7                VIA0D3_0D15          (39.4000 -15.8500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (9.0000 -19.5100) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (10.5000 -3.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (11.4000 -3.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.3500 -14.7000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -14.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -15.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -16.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.3500 -16.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (14.9730 -17.0730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (12.8500 -15.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (13.7000 -15.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (16.3000 -22.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.5000 -23.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (15.4000 -22.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.5000 -9.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (16.2000 -8.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (17.0000 -8.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.7000 -19.0500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.7000 -19.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -14.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -13.4000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -11.0000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.3500 -12.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (30.8000 -10.6000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (30.8000 -11.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (32.1000 -25.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (31.6000 -24.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (37.2500 -27.6000) TOP/BOTTOM 
+  GND                  VIA0D25_0D15         (34.7000 -20.2750) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (38.6629 -21.4071) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (51.3950 -9.4650) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (55.3000 -9.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (58.0000 -5.3000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (58.0000 -6.0000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (61.8500 -10.9500) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (65.6000 -22.9500) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (66.4000 -22.9270) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (66.0000 -22.5000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (70.5249 -20.1249) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (79.2280 -2.8090) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (71.2000 -25.5500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.9000 -11.9000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (18.9000 -12.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (19.7000 -12.8730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (20.5000 -12.8730) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.0000 -3.2000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (23.8000 -3.1050) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (25.8270 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (26.9000 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (28.5000 -3.1000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (31.0500 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (32.3000 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (33.5500 -2.6000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (57.4500 -25.9500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (8.2000 -11.9500) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (38.1500 -27.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (46.5371 -11.1329) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (49.0100 -15.0600) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (55.0500 -18.6770) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (51.3650 -16.6350) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (50.5900 -16.6600) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (49.7371 -17.4071) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.7850 -18.2850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.0100 -19.0600) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (44.9850 -18.2850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (43.3850 -19.8850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.0350 -20.6350) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (44.1850 -20.6850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.0350 -21.4350) TOP/BOTTOM 
+  GND                  VIA0D25_0D15         (36.9000 -20.2000) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.7371 -16.6071) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.0150 -15.8850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.7850 -15.0850) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.0100 -15.0600) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (45.7900 -15.8600) TOP/BOTTOM 
+  GND                  VIA0D3_0D15          (27.3770 -25.8000) TOP/BOTTOM 
+  GND                  VIA0D40_0D2          (36.7680 -3.4920) TOP/BOTTOM 
+  GND                  VIA0D25_0D15         (38.7381 -3.9970) TOP/BOTTOM 
+  GND                  VIA0D25_0D15         (41.2425 -4.9975) TOP/BOTTOM 
+  IR_D2                VIA0D3_0D15          (44.2629 -17.4071) TOP/BOTTOM 
+  IR_D2                VIA0D25_0D15         (33.9500 -18.2000) TOP/BOTTOM 
+  IR_HSYNC             VIA0D3_0D15          (39.4629 -11.9329) TOP/BOTTOM 
+  IR_HSYNC             VIA0D25_0D15         (33.2000 -15.4000) TOP/BOTTOM 
+  IR_D3                VIA0D3_0D15          (41.0629 -18.2071) TOP/BOTTOM 
+  IR_D3                VIA0D25_0D15         (30.8000 -17.8000) TOP/BOTTOM 
+  IR_D1                VIA0D3_0D15          (41.8629 -18.2071) TOP/BOTTOM 
+  IR_D1                VIA0D25_0D15         (30.5820 -18.2000) TOP/BOTTOM 
+  IR_D8                VIA0D3_0D15          (44.2629 -16.6071) TOP/BOTTOM 
+  IR_D8                VIA0D25_0D15         (33.1500 -17.0000) TOP/BOTTOM 
+  IR_D0                VIA0D3_0D15          (39.4000 -18.2500) TOP/BOTTOM 
+  IR_D0                VIA0D25_0D15         (33.1500 -18.6000) TOP/BOTTOM 
+  IR_PCLK              VIA0D3_0D15          (40.2629 -11.9329) TOP/BOTTOM 
+  IR_PCLK              VIA0D25_0D15         (33.2000 -14.4000) TOP/BOTTOM 
+  IR_D10               VIA0D3_0D15          (45.7850 -14.2850) TOP/BOTTOM 
+  IR_D10               VIA0D25_0D15         (35.3500 -16.6000) TOP/BOTTOM 
+  IR_VSYNC             VIA0D3_0D15          (38.6629 -11.1329) TOP/BOTTOM 
+  IR_VSYNC             VIA0D25_0D15         (30.5820 -15.0000) TOP/BOTTOM 
+  IR_5V0               VIA0D40_0D2          (30.7500 -21.6000) TOP/BOTTOM 
+  IR_D5                VIA0D3_0D15          (39.4100 -17.4600) TOP/BOTTOM 
+  IR_D5                VIA0D25_0D15         (28.5780 -17.4000) TOP/BOTTOM 
+  IR_D6                VIA0D3_0D15          (44.2629 -18.2071) TOP/BOTTOM 
+  IR_D6                VIA0D25_0D15         (36.2500 -17.4000) TOP/BOTTOM 
+  IR_D12               VIA0D25_0D15         (33.9000 -16.2000) TOP/BOTTOM 
+  IR_D12               VIA0D3_0D15          (42.6629 -14.3329) TOP/BOTTOM 
+  IR_D11               VIA0D3_0D15          (41.8300 -13.5000) TOP/BOTTOM 
+  IR_D11               VIA0D25_0D15         (28.5780 -16.2000) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       8
+  Total dangling vias:       62
+  Total antenna vias:       303

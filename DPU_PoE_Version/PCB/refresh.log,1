@@ -1,0 +1,117 @@
+Thu Oct  9 08:41:04 2025				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu Oct  9 08:41:04 2025
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : DPU_PoE_A1_SizeReduce.brd                     )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Thu Oct  9 08:41:05 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Oct  9 08:41:05 2025				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'F:/3-MyLaptopDIR/DPU_PoE_Version/PCB/DPU_PoE_A1_SizeReduce.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           F:/MyTemporary/Github/PhotonDetector/Processing_Board/PCB/Footprint/psm 
+           F:/MyTemporary/Github/AllegroPCBFootprints/psm 
+           F:/MyTemporary/Github/AllegroPCBFootprints/mechanical 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           F:/MyTemporary/Github/PhotonDetector/Processing_Board/PCB/Footprint/pad 
+           F:/MyTemporary/Github/AllegroPCBFootprints/pad 
+           F:/MyTemporary/Github/AllegroPCBFootprints/via 
+           F:/MyTemporary/Github/AllegroPCBFootprints/shape 
+
+
+------ Symbol Refresh Messages ------
+
+'TP_THR_CIR_0D8_1D2'  symbol refreshed successfully.
+'SMD-1D25-4P-DEG0'  symbol refreshed successfully.
+'SOD-123'  symbol refreshed successfully.
+'DSN0603-2'  symbol refreshed successfully.
+'SOT23-3'  symbol refreshed successfully.
+'DFN-3-1X0D6'  symbol refreshed successfully.
+'FH35C-39S-0D3SHW'  symbol refreshed successfully.
+'DF40HC_3D0_30DS_0D4'  symbol refreshed successfully.
+'L0201_SMT'  symbol refreshed successfully.
+'WSON-8-EP-6X5MM'  symbol refreshed successfully.
+'DF40HC-70DS_'  symbol refreshed successfully.
+'R0201_SMT'  symbol refreshed successfully.
+'R0603_SMT'  symbol refreshed successfully.
+'SMD2016-4P'  symbol refreshed successfully.
+'RJ-45-POE'  symbol refreshed successfully.
+'LQFP-48'  symbol refreshed successfully.
+'WSON-14-EP'  symbol refreshed successfully.
+'R0402_SMT'  symbol refreshed successfully.
+'LD_CIR_THR_4P'  symbol refreshed successfully.
+'VQFN-20'  symbol refreshed successfully.
+'SW_SMD_2P_L3D9_W3D0_P4D5'  symbol refreshed successfully.
+'R0805'  symbol refreshed successfully.
+'FPC-0D5-24P'  symbol refreshed successfully.
+'CABGA-256'  symbol refreshed successfully.
+'WFBGA-49'  symbol refreshed successfully.
+'TP_THR_CIR_2D0_1D2'  symbol refreshed successfully.
+'C1206_SMT'  symbol refreshed successfully.
+'TP_SMD_1D0_NP'  symbol refreshed successfully.
+'C0201_SMT'  symbol refreshed successfully.
+'IND_SMD_4D4X4D2'  symbol refreshed successfully.
+'TQFN-24'  symbol refreshed successfully.
+'LED0402_SMT'  symbol refreshed successfully.
+'C0603_SMT'  symbol refreshed successfully.
+'C0402_SMT'  symbol refreshed successfully.
+'SOT-23-5'  symbol refreshed successfully.
+'UDFN-8-2X3'  symbol refreshed successfully.
+'FPC-0D5-8P'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 37 out 37
+    Design updated.
+

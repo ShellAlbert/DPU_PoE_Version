@@ -1,0 +1,331 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!FUNC_CDS_FSP_INSTANCE_ID!FUNC_CDS_FSP_IS_FPGA!FUNC_CDS_FSP_UID!
+J!F:/3-MyLaptopDIR/DPU_PoE_Version/PCB/DPU_PoE_A1_Oct-9-25.brd!Fri Oct 10 09:52:39 2025!-993.3420!-721.1548!2158.7580!1380.9452!0.0001!millimeters!DPU!65.600000 mil!8!OUT OF DATE!
+S!@dpu.schematic1(sch_1):ins3330030@library1.\conn-1x2p.normal\(chips)!CONN-1X2P_CONN-1X2P-2D54_CONN-1X2P!J12!.\chipsView.dat!!!!!!F146!!!!!!!
+S!@dpu.schematic1(sch_1):ins3330088@library1.\conn-1x2p.normal\(chips)!CONN-1X2P_CONN-1X2P-2D54_CONN-1X2P!J13!.\chipsView.dat!!!!!!F145!!!!!!!
+S!@dpu.schematic1(sch_1):ins3323079@library1.\conn-1x3p.normal\(chips)!CONN-1X3P_CONN-1X3P-2D54_CONN-1X3P!J11!.\chipsView.dat!!!!!!F147!!!!!!!
+S!@dpu.schematic1(sch_1):ins3322607@library1.\conn-1x3p.normal\(chips)!CONN-1X3P_CONN-1X3P-2D54_CONN-1X3P!J10!.\chipsView.dat!!!!!!F148!!!!!!!
+S!@dpu.schematic1(sch_1):ins3296067@discrete.\r.normal\(chips)!R_R0402_SMT_1K!R91!.\chipsView.dat!!!!!!F36!!!!!!!
+S!@dpu.schematic1(sch_1):ins3296093@discrete.\r.normal\(chips)!R_R0402_SMT_1K!R92!.\chipsView.dat!!!!!!F35!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295961@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP15!.\chipsView.dat!!!!!!TF-845!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295983@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP16!.\chipsView.dat!!!!!!TF-844!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295829@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP10!.\chipsView.dat!!!!!!TF-843!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295873@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP11!.\chipsView.dat!!!!!!TF-842!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295895@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP12!.\chipsView.dat!!!!!!TF-841!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295917@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP13!.\chipsView.dat!!!!!!TF-840!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295939@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP14!.\chipsView.dat!!!!!!TF-839!!!!!!!
+S!@dpu.schematic1(sch_1):ins3295807@discrete.\t point f.normal\(chips)!T POINT F_TP_THR_CIR_0D8_1D2_T POINT F!TP9!.\chipsView.dat!!!!!!TF-838!!!!!!!
+S!@dpu.schematic1(sch_1):ins3282223@library1.\sip-1x4.normal\(chips)!SIP-1X4_SMD-1D25-4P-DEG0_HC-1.25-4PWT!J8!.\chipsView.dat!!!!!!F138!!!!!!!
+S!@dpu.schematic1(sch_1):ins3282893@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D20!.\chipsView.dat!!!!!!F165!!!!!!!
+S!@dpu.schematic1(sch_1):ins3283058@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D21!.\chipsView.dat!!!!!!F164!!!!!!!
+S!@dpu.schematic1(sch_1):ins3283084@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D22!.\chipsView.dat!!!!!!F163!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246290@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D3!.\chipsView.dat!!!!!!F162!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246306@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D2!.\chipsView.dat!!!!!!F166!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246322@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D4!.\chipsView.dat!!!!!!F161!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246338@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D5!.\chipsView.dat!!!!!!F160!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246354@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D1!.\chipsView.dat!!!!!!F174!!!!!!!
+S!@dpu.schematic1(sch_1):ins3246370@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D6!.\chipsView.dat!!!!!!F159!!!!!!!
+S!@dpu.schematic1(sch_1):ins3226900@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D10!.\chipsView.dat!!!!!!F173!!!!!!!
+S!@dpu.schematic1(sch_1):ins3225281@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D8!.\chipsView.dat!!!!!!F158!!!!!!!
+S!@dpu.schematic1(sch_1):ins3226092@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D9!.\chipsView.dat!!!!!!F157!!!!!!!
+S!@dpu.schematic1(sch_1):ins3217573@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D16!.\chipsView.dat!!!!!!F167!!!!!!!
+S!@dpu.schematic1(sch_1):ins3217589@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D15!.\chipsView.dat!!!!!!F168!!!!!!!
+S!@dpu.schematic1(sch_1):ins3213532@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D13!.\chipsView.dat!!!!!!F170!!!!!!!
+S!@dpu.schematic1(sch_1):ins3213516@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D14!.\chipsView.dat!!!!!!F169!!!!!!!
+S!@dpu.schematic1(sch_1):ins3213564@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D11!.\chipsView.dat!!!!!!F172!!!!!!!
+S!@dpu.schematic1(sch_1):ins3213548@discrete.\diode tvs bi-dir.normal\(chips)!DIODE TVS BI-DIR_DSN0603-2_PESD2V0Y1BSF!D12!.\chipsView.dat!!!!!!F171!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194991@library1.\2sc1815.normal\(chips)!2SC1815_SOT23-3_BFR93AWH6327!Q2!.\chipsView.dat!!!!!!F130!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194420@library1.\2sc1815.normal\(chips)!2SC1815_SOT23-3_BFR93AWH6327!Q1!.\chipsView.dat!!!!!!F131!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194918@discrete.\r.normal\(chips)!R_R0402_SMT_100R!R60!.\chipsView.dat!!!!!!F63!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194682@discrete.\r.normal\(chips)!R_R0402_SMT_100R!R6!.\chipsView.dat!!!!!!F64!!!!!!!
+S!@dpu.schematic1(sch_1):ins3183735@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_22UF/25V!C107!.\chipsView.dat!!!!!!F238!!!!!!!
+S!@dpu.schematic1(sch_1):ins3183771@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_22UF/25V!C122!.\chipsView.dat!!!!!!F237!!!!!!!
+S!@dpu.schematic1(sch_1):ins3184600@discrete.\diode zener.normal\(chips)!DIODE ZENER_SOD-123_BZT52C5V6-7-F!D7!.\chipsView.dat!!!!!!F153!!!!!!!
+S!@dpu.schematic1(sch_1):ins2406306@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_470NF!C58!.\chipsView.dat!!!!!!F175!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593295@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_DFN-3-1X0D6_BC847BMB,315!Q3!.\chipsView.dat!!!!!!F129!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593277@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_DFN-3-1X0D6_BC847BMB,315!Q4!.\chipsView.dat!!!!!!F128!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593259@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_DFN-3-1X0D6_BC847BMB,315!Q5!.\chipsView.dat!!!!!!F127!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593183@discrete.\r.normal\(chips)!R_R0201_SMT_20K!R83!.\chipsView.dat!!!!!!F38!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593215@discrete.\r.normal\(chips)!R_R0201_SMT_20K!R81!.\chipsView.dat!!!!!!F40!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593199@discrete.\r.normal\(chips)!R_R0201_SMT_20K!R82!.\chipsView.dat!!!!!!F39!!!!!!!
+S!@dpu.schematic1(sch_1):ins814999@discrete.\r.normal\(chips)!R_R0201_SMT_1K!R89!.\chipsView.dat!!!!!!F42!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593243@discrete.\r.normal\(chips)!R_R0201_SMT_1K!R80!.\chipsView.dat!!!!!!F43!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593373@discrete.\r.normal\(chips)!R_R0201_SMT_1K!R78!.\chipsView.dat!!!!!!F45!!!!!!!
+S!@dpu.schematic1(sch_1):ins1593331@discrete.\r.normal\(chips)!R_R0201_SMT_1K!R79!.\chipsView.dat!!!!!!F44!!!!!!!
+S!@dpu.schematic1(sch_1):ins3114870@library1.\fh35c-39s-0dshw.normal\(chips)!FH35C-39S-0DSHW_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!Y1!.\chipsView.dat!!!!!!F3!!!!!!!
+S!@dpu.schematic1(sch_1):ins3113239@library1.\conn-2x15p.normal\(chips)!CONN-2X15P_DF40HC_3D0_30DS_0D4_CONN-2X15P!J2!.\chipsView.dat!!!!!!F144!!!!!!!
+S!@dpu.schematic1(sch_1):ins3113377@library1.\conn-2x15p.normal\(chips)!CONN-2X15P_DF40HC_3D0_30DS_0D4_CONN-2X15P!J4!.\chipsView.dat!!!!!!F143!!!!!!!
+S!@dpu.schematic1(sch_1):ins2967098@discrete.\inductor.normal\(chips)!INDUCTOR_L0201_SMT_BLM15PD121SN1D!FB2!.\chipsView.dat!!!!!!F150!!!!!!!
+S!@dpu.schematic1(sch_1):ins760477@discrete.\inductor.normal\(chips)!INDUCTOR_L0201_SMT_BLM15PD121SN1D!FB3!.\chipsView.dat!!!!!!F149!!!!!!!
+S!@dpu.schematic1(sch_1):ins759758@discrete.\inductor.normal\(chips)!INDUCTOR_L0201_SMT_BLM15PD121SN1D!FB1!.\chipsView.dat!!!!!!F151!!!!!!!
+S!@dpu.schematic1(sch_1):ins907859@discrete.\r.normal\(chips)!R_R0201_SMT_2.2K!R86!.\chipsView.dat!!!!!!F58!!!!!!!
+S!@dpu.schematic1(sch_1):ins2456536@discrete.\r.normal\(chips)!R_R0201_SMT_2.2K!R61!.\chipsView.dat!!!!!!F62!!!!!!!
+S!@dpu.schematic1(sch_1):ins2467043@discrete.\r.normal\(chips)!R_R0201_SMT_2.2K!R62!.\chipsView.dat!!!!!!F61!!!!!!!
+S!@dpu.schematic1(sch_1):ins2471610@discrete.\r.normal\(chips)!R_R0201_SMT_2.2K!R63!.\chipsView.dat!!!!!!F60!!!!!!!
+S!@dpu.schematic1(sch_1):ins2471096@discrete.\r.normal\(chips)!R_R0201_SMT_2.2K!R64!.\chipsView.dat!!!!!!F59!!!!!!!
+S!@dpu.schematic1(sch_1):ins2861436@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R75!.\chipsView.dat!!!!!!F46!!!!!!!
+S!@dpu.schematic1(sch_1):ins2863883@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R74!.\chipsView.dat!!!!!!F47!!!!!!!
+S!@dpu.schematic1(sch_1):ins3057305@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R71!.\chipsView.dat!!!!!!F50!!!!!!!
+S!@dpu.schematic1(sch_1):ins3056473@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R70!.\chipsView.dat!!!!!!F51!!!!!!!
+S!@dpu.schematic1(sch_1):ins2826036@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R73!.\chipsView.dat!!!!!!F48!!!!!!!
+S!@dpu.schematic1(sch_1):ins2859824@discrete.\r.normal\(chips)!R_R0201_SMT_100K!R72!.\chipsView.dat!!!!!!F49!!!!!!!
+S!@dpu.schematic1(sch_1):ins2397311@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R50!.\chipsView.dat!!!!!!F74!!!!!!!
+S!@dpu.schematic1(sch_1):ins909825@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R88!.\chipsView.dat!!!!!!F67!!!!!!!
+S!@dpu.schematic1(sch_1):ins902457@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R87!.\chipsView.dat!!!!!!F68!!!!!!!
+S!@dpu.schematic1(sch_1):ins909851@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R85!.\chipsView.dat!!!!!!F69!!!!!!!
+S!@dpu.schematic1(sch_1):ins2398716@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R53!.\chipsView.dat!!!!!!F71!!!!!!!
+S!@dpu.schematic1(sch_1):ins2405328@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R48!.\chipsView.dat!!!!!!F75!!!!!!!
+S!@dpu.schematic1(sch_1):ins902040@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R51!.\chipsView.dat!!!!!!F73!!!!!!!
+S!@dpu.schematic1(sch_1):ins2442223@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R52!.\chipsView.dat!!!!!!F72!!!!!!!
+S!@dpu.schematic1(sch_1):ins2443593@discrete.\r.normal\(chips)!R_R0201_SMT_4.7K!R55!.\chipsView.dat!!!!!!F70!!!!!!!
+S!@dpu.schematic1(sch_1):ins3041857@library1.\gd25q128esigr.normal\(chips)!GD25Q128ESIGR_WSON-8-EP-6X5MM_ W25Q32JWZPIQ_TR!U9!.\chipsView.dat!!!!!!F4!!!!!!!
+S!@dpu.schematic1(sch_1):ins2922726@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_10NF!C43!.\chipsView.dat!!!!!!F179!!!!!!!
+S!@dpu.schematic1(sch_1):ins2938905@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_12PF!C38!.\chipsView.dat!!!!!!F181!!!!!!!
+S!@dpu.schematic1(sch_1):ins2951729@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_12PF!C32!.\chipsView.dat!!!!!!F182!!!!!!!
+S!@dpu.schematic1(sch_1):ins1026825@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R14!.\chipsView.dat!!!!!!F115!!!!!!!
+S!@dpu.schematic1(sch_1):ins1024358@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R11!.\chipsView.dat!!!!!!F117!!!!!!!
+S!@dpu.schematic1(sch_1):ins1026799@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R12!.\chipsView.dat!!!!!!F116!!!!!!!
+S!@dpu.schematic1(sch_1):ins759294@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R17!.\chipsView.dat!!!!!!F113!!!!!!!
+S!@dpu.schematic1(sch_1):ins759268@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R16!.\chipsView.dat!!!!!!F114!!!!!!!
+S!@dpu.schematic1(sch_1):ins2906009@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R10!.\chipsView.dat!!!!!!F118!!!!!!!
+S!@dpu.schematic1(sch_1):ins2928209@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R21!.\chipsView.dat!!!!!!F112!!!!!!!
+S!@dpu.schematic1(sch_1):ins2928372@discrete.\r.normal\(chips)!R_R0201_SMT_10K!R24!.\chipsView.dat!!!!!!F111!!!!!!!
+S!@dpu.schematic1(sch_1):ins2910838@discrete.\r.normal\(chips)!R_R0201_SMT_12.4K,1%!R33!.\chipsView.dat!!!!!!F80!!!!!!!
+S!@dpu.schematic1(sch_1):ins2934274@discrete.\r.normal\(chips)!R_R0201_SMT_1M!R29!.\chipsView.dat!!!!!!F83!!!!!!!
+S!@dpu.schematic1(sch_1):ins2822354@discrete.\r.normal\(chips)!R_R0201_SMT_0R!R69!.\chipsView.dat!!!!!!F84!!!!!!!
+S!@dpu.schematic1(sch_1):ins2822380@discrete.\r.normal\(chips)!R_R0201_SMT_0R!R68!.\chipsView.dat!!!!!!F85!!!!!!!
+S!@dpu.schematic1(sch_1):ins762770@discrete.\r.normal\(chips)!R_R0201_SMT_0R!R28!.\chipsView.dat!!!!!!F87!!!!!!!
+S!@dpu.schematic1(sch_1):ins990088@discrete.\r.normal\(chips)!R_R0201_SMT_0R!R39!.\chipsView.dat!!!!!!F86!!!!!!!
+S!@dpu.schematic1(sch_1):ins815023@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R90!.\chipsView.dat!!!!!!F105!!!!!!!
+S!@dpu.schematic1(sch_1):ins1466623@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R15!.\chipsView.dat!!!!!!F109!!!!!!!
+S!@dpu.schematic1(sch_1):ins1466597@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R13!.\chipsView.dat!!!!!!F110!!!!!!!
+S!@dpu.schematic1(sch_1):ins2502925@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R56!.\chipsView.dat!!!!!!F106!!!!!!!
+S!@dpu.schematic1(sch_1):ins762796@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R32!.\chipsView.dat!!!!!!F108!!!!!!!
+S!@dpu.schematic1(sch_1):ins990152@discrete.\r.normal\(chips)!R_R0201_SMT_DNP!R37!.\chipsView.dat!!!!!!F107!!!!!!!
+S!@dpu.schematic1(sch_1):ins2918445@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R20!.\chipsView.dat!!!!!!F98!!!!!!!
+S!@dpu.schematic1(sch_1):ins2918471@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R22!.\chipsView.dat!!!!!!F97!!!!!!!
+S!@dpu.schematic1(sch_1):ins2918777@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R25!.\chipsView.dat!!!!!!F96!!!!!!!
+S!@dpu.schematic1(sch_1):ins2918793@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R27!.\chipsView.dat!!!!!!F95!!!!!!!
+S!@dpu.schematic1(sch_1):ins903651@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R54!.\chipsView.dat!!!!!!F92!!!!!!!
+S!@dpu.schematic1(sch_1):ins970726@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R30!.\chipsView.dat!!!!!!F94!!!!!!!
+S!@dpu.schematic1(sch_1):ins990204@discrete.\r.normal\(chips)!R_R0201_SMT_33R!R38!.\chipsView.dat!!!!!!F93!!!!!!!
+S!@dpu.schematic1(sch_1):ins762348@library1.\oscillator.normal\(chips)!OSCILLATOR_SMD2016-4P_24.0MHZ!Y3!.\chipsView.dat!!!!!!F1!!!!!!!
+S!@dpu.schematic1(sch_1):ins990104@library1.\oscillator.normal\(chips)!OSCILLATOR_SMD2016-4P_25.0MHZ!Y4!.\chipsView.dat!!!!!!F0!!!!!!!
+S!@dpu.schematic1(sch_1):ins2920503@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_4.7UF!C44!.\chipsView.dat!!!!!!F178!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981137@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_10NF/100V!C28!.\chipsView.dat!!!!!!F186!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981207@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_10NF/100V!C33!.\chipsView.dat!!!!!!F185!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981233@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_10NF/100V!C39!.\chipsView.dat!!!!!!F184!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981259@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_10NF/100V!C42!.\chipsView.dat!!!!!!F183!!!!!!!
+S!@dpu.schematic1(sch_1):ins2982688@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_1000PF/2KV!C35!.\chipsView.dat!!!!!!F180!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072015@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_16PF!C16!.\chipsView.dat!!!!!!F193!!!!!!!
+S!@dpu.schematic1(sch_1):ins2821946@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!J7!.\chipsView.dat!!!!!!F139!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981725@discrete.\r.normal\(chips)!R_R0603_SMT_75!R34!.\chipsView.dat!!!!!!F88!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981635@discrete.\r.normal\(chips)!R_R0603_SMT_75!R23!.\chipsView.dat!!!!!!F91!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981669@discrete.\r.normal\(chips)!R_R0603_SMT_75!R26!.\chipsView.dat!!!!!!F90!!!!!!!
+S!@dpu.schematic1(sch_1):ins2981697@discrete.\r.normal\(chips)!R_R0603_SMT_75!R31!.\chipsView.dat!!!!!!F89!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071899@discrete.\r.normal\(chips)!R_R0402_SMT_49.9K!R4!.\chipsView.dat!!!!!!F79!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071915@discrete.\r.normal\(chips)!R_R0402_SMT_154K!R9!.\chipsView.dat!!!!!!F37!!!!!!!
+S!@dpu.schematic1(sch_1):ins2966224@discrete.\r.normal\(chips)!R_R0402_SMT_330R!R7!.\chipsView.dat!!!!!!F65!!!!!!!
+S!@dpu.schematic1(sch_1):ins2966250@discrete.\r.normal\(chips)!R_R0402_SMT_330R!R49!.\chipsView.dat!!!!!!F66!!!!!!!
+S!@dpu.schematic1(sch_1):ins2823877@library1.\tps22976dpur.normal\(chips)!TPS22976DPUR_WSON-14-EP_TPS22976DPUR!U5!.\chipsView.dat!!!!!!F21!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851353@library1.\tps22976dpur.normal\(chips)!TPS22976DPUR_WSON-14-EP_TPS22976DPUR!U6!.\chipsView.dat!!!!!!F20!!!!!!!
+S!@dpu.schematic1(sch_1):ins2898169@library1.\w5500.normal\(chips)!W5500_LQFP-48_W5500!U12!.\chipsView.dat!!!!!!F25!!!!!!!
+S!@dpu.schematic1(sch_1):ins2988418@library1.\hy931147c.normal\(chips)!HY931147C_RJ-45-POE_HY931147C!U13!.\chipsView.dat!!!!!!F24!!!!!!!
+S!@dpu.schematic1(sch_1):ins2929768@library1.\cry2016-4p.normal\(chips)!CRY2016-4P_SMD2016-4P_XRCGB-25MHZ!Y2!.\chipsView.dat!!!!!!F2!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072267@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C20!.\chipsView.dat!!!!!!F192!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071831@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C21!.\chipsView.dat!!!!!!F191!!!!!!!
+S!@dpu.schematic1(sch_1):ins1374248@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C63!.\chipsView.dat!!!!!!F187!!!!!!!
+S!@dpu.schematic1(sch_1):ins2230546@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C54!.\chipsView.dat!!!!!!F190!!!!!!!
+S!@dpu.schematic1(sch_1):ins1606612@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C61!.\chipsView.dat!!!!!!F189!!!!!!!
+S!@dpu.schematic1(sch_1):ins1604948@discrete.\cap np.normal\(chips)!CAP NP_C0603_SMT_22UF!C62!.\chipsView.dat!!!!!!F188!!!!!!!
+S!@dpu.schematic1(sch_1):ins3183308@discrete.\fuse.normal\(chips)!FUSE_R0805_1AMP!F1!.\chipsView.dat!!!!!!F152!!!!!!!
+S!@dpu.schematic1(sch_1):ins1608976@discrete.\r.normal\(chips)!R_R0402_SMT_10R!R84!.\chipsView.dat!!!!!!F52!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071995@discrete.\r.normal\(chips)!R_R0402_SMT_10R!R67!.\chipsView.dat!!!!!!F53!!!!!!!
+S!@dpu.schematic1(sch_1):ins795660@latticeplds.\lifcl-40-bg256a.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F19!!!!!!!
+S!@dpu.schematic1(sch_1):ins795772@latticeplds.\lifcl-40-bg256b.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F18!!!!!!!
+S!@dpu.schematic1(sch_1):ins795916@latticeplds.\lifcl-40-bg256c.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F17!!!!!!!
+S!@dpu.schematic1(sch_1):ins796030@latticeplds.\lifcl-40-bg256d.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F16!!!!!!!
+S!@dpu.schematic1(sch_1):ins805737@latticeplds.\lifcl-40-bg256e.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F15!!!!!!!
+S!@dpu.schematic1(sch_1):ins804173@latticeplds.\lifcl-40-bg256f.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F14!!!!!!!
+S!@dpu.schematic1(sch_1):ins807321@latticeplds.\lifcl-40-bg256g.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F13!!!!!!!
+S!@dpu.schematic1(sch_1):ins807800@latticeplds.\lifcl-40-bg256h.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F12!!!!!!!
+S!@dpu.schematic1(sch_1):ins808279@latticeplds.\lifcl-40-bg256i.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F11!!!!!!!
+S!@dpu.schematic1(sch_1):ins808633@latticeplds.\lifcl-40-bg256j.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F10!!!!!!!
+S!@dpu.schematic1(sch_1):ins808705@latticeplds.\lifcl-40-bg256k.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F9!!!!!!!
+S!@dpu.schematic1(sch_1):ins809525@latticeplds.\lifcl-40-bg256l.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F8!!!!!!!
+S!@dpu.schematic1(sch_1):ins809589@latticeplds.\lifcl-40-bg256m.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F7!!!!!!!
+S!@dpu.schematic1(sch_1):ins809723@latticeplds.\lifcl-40-bg256n.normal\(chips)!LIFCL-40-BG256_CABGA-256_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14)_LIFCL-40-7BG256I!U7!.\chipsView.dat!!!!!!F6!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194888@psu.\laserdiode_0.normal\(chips)!LASERDIODE_0_LD_CIR_THR_4P_LASERDIODE!LD2!.\chipsView.dat!!!!!!F132!!!!!!!
+S!@dpu.schematic1(sch_1):ins2897889@psu.\laserdiode_0.normal\(chips)!LASERDIODE_0_LD_CIR_THR_4P_LASERDIODE!LD1!.\chipsView.dat!!!!!!F133!!!!!!!
+S!@dpu.schematic1(sch_1):ins3098146@library1.\txs0108ergyr.normal\(chips)!TXS0108ERGYR_VQFN-20_TXS0108ERGYR!U3!.\chipsView.dat!!!!!!F23!!!!!!!
+S!@dpu.schematic1(sch_1):ins2580586@discrete.\sw key-spst.normal\(chips)!SW KEY-SPST_SW_SMD_2P_L3D9_W3D0_P4D5_SW KEY-SPST!SW1!.\chipsView.dat!!!!!!F34!!!!!!!
+S!@dpu.schematic1(sch_1):ins2455586@library1.\w958d6nbkx4i.normal\(chips)!W958D6NBKX4I_WFBGA-49_W958D6NBKX4I!U2!.\chipsView.dat!!!!!!F28!!!!!!!
+S!@dpu.schematic1(sch_1):ins2471132@library1.\w958d6nbkx4i.normal\(chips)!W958D6NBKX4I_WFBGA-49_W958D6NBKX4I!U1!.\chipsView.dat!!!!!!F29!!!!!!!
+S!@dpu.schematic1(sch_1):ins2690320@discrete.\t point f.normal\(chips)!T POINT F_TP_SMD_1D0_NP_T POINT F!TP7!.\chipsView.dat!!!!!!F31!!!!!!!
+S!@dpu.schematic1(sch_1):ins2591130@discrete.\t point f.normal\(chips)!T POINT F_TP_SMD_1D0_NP_T POINT F!TP8!.\chipsView.dat!!!!!!F30!!!!!!!
+S!@dpu.schematic1(sch_1):ins2406260@discrete.\t point f.normal\(chips)!T POINT F_TP_SMD_1D0_NP_T POINT F!TP2!.\chipsView.dat!!!!!!F33!!!!!!!
+S!@dpu.schematic1(sch_1):ins2405280@discrete.\t point f.normal\(chips)!T POINT F_TP_SMD_1D0_NP_T POINT F!TP4!.\chipsView.dat!!!!!!F32!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072411@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_200PF!C15!.\chipsView.dat!!!!!!F194!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072335@discrete.\r.normal\(chips)!R_R0402_SMT_24.9K!R8!.\chipsView.dat!!!!!!F41!!!!!!!
+S!@dpu.schematic1(sch_1):ins3069424@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C119!.\chipsView.dat!!!!!!F250!!!!!!!
+S!@dpu.schematic1(sch_1):ins2824373@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C104!.\chipsView.dat!!!!!!F252!!!!!!!
+S!@dpu.schematic1(sch_1):ins2835224@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C103!.\chipsView.dat!!!!!!F253!!!!!!!
+S!@dpu.schematic1(sch_1):ins2831012@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C121!.\chipsView.dat!!!!!!F248!!!!!!!
+S!@dpu.schematic1(sch_1):ins2845839@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C120!.\chipsView.dat!!!!!!F249!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851285@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C102!.\chipsView.dat!!!!!!F254!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851309@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C101!.\chipsView.dat!!!!!!F255!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851629@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C118!.\chipsView.dat!!!!!!F251!!!!!!!
+S!@dpu.schematic1(sch_1):ins1509755@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C134!.\chipsView.dat!!!!!!F245!!!!!!!
+S!@dpu.schematic1(sch_1):ins1509729@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C130!.\chipsView.dat!!!!!!F246!!!!!!!
+S!@dpu.schematic1(sch_1):ins775015@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C96!.\chipsView.dat!!!!!!F240!!!!!!!
+S!@dpu.schematic1(sch_1):ins813393@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C10!.\chipsView.dat!!!!!!F256!!!!!!!
+S!@dpu.schematic1(sch_1):ins817733@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C18!.\chipsView.dat!!!!!!F242!!!!!!!
+S!@dpu.schematic1(sch_1):ins921069@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C139!.\chipsView.dat!!!!!!F243!!!!!!!
+S!@dpu.schematic1(sch_1):ins776091@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C125!.\chipsView.dat!!!!!!F247!!!!!!!
+S!@dpu.schematic1(sch_1):ins777719@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C47!.\chipsView.dat!!!!!!F241!!!!!!!
+S!@dpu.schematic1(sch_1):ins804272@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C137!.\chipsView.dat!!!!!!F244!!!!!!!
+S!@dpu.schematic1(sch_1):ins776598@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_4.7UF!C99!.\chipsView.dat!!!!!!F239!!!!!!!
+S!@dpu.schematic1(sch_1):ins3190351@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C91!.\chipsView.dat!!!!!!F258!!!!!!!
+S!@dpu.schematic1(sch_1):ins2861452@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C112!.\chipsView.dat!!!!!!F312!!!!!!!
+S!@dpu.schematic1(sch_1):ins2863913@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C108!.\chipsView.dat!!!!!!F316!!!!!!!
+S!@dpu.schematic1(sch_1):ins3177980@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C73!.\chipsView.dat!!!!!!F274!!!!!!!
+S!@dpu.schematic1(sch_1):ins2962504@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C27!.\chipsView.dat!!!!!!F289!!!!!!!
+S!@dpu.schematic1(sch_1):ins2967538@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C37!.\chipsView.dat!!!!!!F285!!!!!!!
+S!@dpu.schematic1(sch_1):ins2970246@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C41!.\chipsView.dat!!!!!!F284!!!!!!!
+S!@dpu.schematic1(sch_1):ins2970272@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C46!.\chipsView.dat!!!!!!F283!!!!!!!
+S!@dpu.schematic1(sch_1):ins3101827@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C2!.\chipsView.dat!!!!!!F293!!!!!!!
+S!@dpu.schematic1(sch_1):ins3100809@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C1!.\chipsView.dat!!!!!!F320!!!!!!!
+S!@dpu.schematic1(sch_1):ins1022597@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C22!.\chipsView.dat!!!!!!F292!!!!!!!
+S!@dpu.schematic1(sch_1):ins760513@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C56!.\chipsView.dat!!!!!!F281!!!!!!!
+S!@dpu.schematic1(sch_1):ins2149517@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C31!.\chipsView.dat!!!!!!F286!!!!!!!
+S!@dpu.schematic1(sch_1):ins2146787@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C29!.\chipsView.dat!!!!!!F288!!!!!!!
+S!@dpu.schematic1(sch_1):ins760113@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C26!.\chipsView.dat!!!!!!F290!!!!!!!
+S!@dpu.schematic1(sch_1):ins1374232@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C57!.\chipsView.dat!!!!!!F280!!!!!!!
+S!@dpu.schematic1(sch_1):ins2906045@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C25!.\chipsView.dat!!!!!!F291!!!!!!!
+S!@dpu.schematic1(sch_1):ins762457@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C30!.\chipsView.dat!!!!!!F287!!!!!!!
+S!@dpu.schematic1(sch_1):ins990128@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C49!.\chipsView.dat!!!!!!F282!!!!!!!
+S!@dpu.schematic1(sch_1):ins2837525@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C110!.\chipsView.dat!!!!!!F314!!!!!!!
+S!@dpu.schematic1(sch_1):ins2837541@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C115!.\chipsView.dat!!!!!!F309!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851439@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C109!.\chipsView.dat!!!!!!F315!!!!!!!
+S!@dpu.schematic1(sch_1):ins2851493@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C114!.\chipsView.dat!!!!!!F310!!!!!!!
+S!@dpu.schematic1(sch_1):ins2569778@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C75!.\chipsView.dat!!!!!!F272!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571357@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C77!.\chipsView.dat!!!!!!F270!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571373@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C81!.\chipsView.dat!!!!!!F266!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571389@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C76!.\chipsView.dat!!!!!!F271!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571405@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C83!.\chipsView.dat!!!!!!F265!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571421@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C85!.\chipsView.dat!!!!!!F263!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571437@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C80!.\chipsView.dat!!!!!!F267!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571453@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C79!.\chipsView.dat!!!!!!F268!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571469@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C84!.\chipsView.dat!!!!!!F264!!!!!!!
+S!@dpu.schematic1(sch_1):ins2564571@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C72!.\chipsView.dat!!!!!!F275!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562403@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C87!.\chipsView.dat!!!!!!F261!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562429@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C88!.\chipsView.dat!!!!!!F260!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562455@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C78!.\chipsView.dat!!!!!!F269!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562481@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C86!.\chipsView.dat!!!!!!F262!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562507@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C71!.\chipsView.dat!!!!!!F276!!!!!!!
+S!@dpu.schematic1(sch_1):ins2562533@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C70!.\chipsView.dat!!!!!!F277!!!!!!!
+S!@dpu.schematic1(sch_1):ins1982077@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C132!.\chipsView.dat!!!!!!F300!!!!!!!
+S!@dpu.schematic1(sch_1):ins830786@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C94!.\chipsView.dat!!!!!!F257!!!!!!!
+S!@dpu.schematic1(sch_1):ins835423@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C135!.\chipsView.dat!!!!!!F298!!!!!!!
+S!@dpu.schematic1(sch_1):ins919737@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C136!.\chipsView.dat!!!!!!F297!!!!!!!
+S!@dpu.schematic1(sch_1):ins813377@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C9!.\chipsView.dat!!!!!!F259!!!!!!!
+S!@dpu.schematic1(sch_1):ins776582@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C123!.\chipsView.dat!!!!!!F306!!!!!!!
+S!@dpu.schematic1(sch_1):ins776075@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C140!.\chipsView.dat!!!!!!F296!!!!!!!
+S!@dpu.schematic1(sch_1):ins834163@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C64!.\chipsView.dat!!!!!!F278!!!!!!!
+S!@dpu.schematic1(sch_1):ins824925@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C113!.\chipsView.dat!!!!!!F311!!!!!!!
+S!@dpu.schematic1(sch_1):ins824899@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C124!.\chipsView.dat!!!!!!F305!!!!!!!
+S!@dpu.schematic1(sch_1):ins817717@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C74!.\chipsView.dat!!!!!!F273!!!!!!!
+S!@dpu.schematic1(sch_1):ins858957@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C141!.\chipsView.dat!!!!!!F295!!!!!!!
+S!@dpu.schematic1(sch_1):ins774989@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C126!.\chipsView.dat!!!!!!F304!!!!!!!
+S!@dpu.schematic1(sch_1):ins819744@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C59!.\chipsView.dat!!!!!!F279!!!!!!!
+S!@dpu.schematic1(sch_1):ins819728@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C100!.\chipsView.dat!!!!!!F319!!!!!!!
+S!@dpu.schematic1(sch_1):ins819712@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C133!.\chipsView.dat!!!!!!F299!!!!!!!
+S!@dpu.schematic1(sch_1):ins804256@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C19!.\chipsView.dat!!!!!!F294!!!!!!!
+S!@dpu.schematic1(sch_1):ins992243@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C129!.\chipsView.dat!!!!!!F302!!!!!!!
+S!@dpu.schematic1(sch_1):ins994097@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C131!.\chipsView.dat!!!!!!F301!!!!!!!
+S!@dpu.schematic1(sch_1):ins1480413@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C105!.\chipsView.dat!!!!!!F318!!!!!!!
+S!@dpu.schematic1(sch_1):ins1480387@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C116!.\chipsView.dat!!!!!!F308!!!!!!!
+S!@dpu.schematic1(sch_1):ins818781@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C128!.\chipsView.dat!!!!!!F303!!!!!!!
+S!@dpu.schematic1(sch_1):ins1513986@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C111!.\chipsView.dat!!!!!!F313!!!!!!!
+S!@dpu.schematic1(sch_1):ins921043@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C117!.\chipsView.dat!!!!!!F307!!!!!!!
+S!@dpu.schematic1(sch_1):ins777703@discrete.\cap np.normal\(chips)!CAP NP_C0201_SMT_0.1UF!C106!.\chipsView.dat!!!!!!F317!!!!!!!
+S!@dpu.schematic1(sch_1):ins3245125@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C142!.\chipsView.dat!!!!!!F233!!!!!!!
+S!@dpu.schematic1(sch_1):ins3192195@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C93!.\chipsView.dat!!!!!!F206!!!!!!!
+S!@dpu.schematic1(sch_1):ins3190377@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C92!.\chipsView.dat!!!!!!F207!!!!!!!
+S!@dpu.schematic1(sch_1):ins2963118@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C40!.\chipsView.dat!!!!!!F224!!!!!!!
+S!@dpu.schematic1(sch_1):ins2971841@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C36!.\chipsView.dat!!!!!!F226!!!!!!!
+S!@dpu.schematic1(sch_1):ins2971867@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C45!.\chipsView.dat!!!!!!F223!!!!!!!
+S!@dpu.schematic1(sch_1):ins2630963@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C60!.\chipsView.dat!!!!!!F218!!!!!!!
+S!@dpu.schematic1(sch_1):ins2627518@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C4!.\chipsView.dat!!!!!!F225!!!!!!!
+S!@dpu.schematic1(sch_1):ins2627544@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C11!.\chipsView.dat!!!!!!F236!!!!!!!
+S!@dpu.schematic1(sch_1):ins2627570@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C3!.\chipsView.dat!!!!!!F228!!!!!!!
+S!@dpu.schematic1(sch_1):ins2622705@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C127!.\chipsView.dat!!!!!!F235!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571485@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C90!.\chipsView.dat!!!!!!F208!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571501@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C67!.\chipsView.dat!!!!!!F215!!!!!!!
+S!@dpu.schematic1(sch_1):ins2571517@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C82!.\chipsView.dat!!!!!!F210!!!!!!!
+S!@dpu.schematic1(sch_1):ins2565434@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C69!.\chipsView.dat!!!!!!F213!!!!!!!
+S!@dpu.schematic1(sch_1):ins2565460@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C89!.\chipsView.dat!!!!!!F209!!!!!!!
+S!@dpu.schematic1(sch_1):ins2568663@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C68!.\chipsView.dat!!!!!!F214!!!!!!!
+S!@dpu.schematic1(sch_1):ins2547510@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C48!.\chipsView.dat!!!!!!F222!!!!!!!
+S!@dpu.schematic1(sch_1):ins2354714@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C138!.\chipsView.dat!!!!!!F234!!!!!!!
+S!@dpu.schematic1(sch_1):ins2332830@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C23!.\chipsView.dat!!!!!!F230!!!!!!!
+S!@dpu.schematic1(sch_1):ins3131629@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C7!.\chipsView.dat!!!!!!F212!!!!!!!
+S!@dpu.schematic1(sch_1):ins3133992@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C8!.\chipsView.dat!!!!!!F211!!!!!!!
+S!@dpu.schematic1(sch_1):ins1966267@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C65!.\chipsView.dat!!!!!!F217!!!!!!!
+S!@dpu.schematic1(sch_1):ins1959825@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C55!.\chipsView.dat!!!!!!F220!!!!!!!
+S!@dpu.schematic1(sch_1):ins1953164@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C24!.\chipsView.dat!!!!!!F229!!!!!!!
+S!@dpu.schematic1(sch_1):ins1930178@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C6!.\chipsView.dat!!!!!!F219!!!!!!!
+S!@dpu.schematic1(sch_1):ins1504634@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C5!.\chipsView.dat!!!!!!F221!!!!!!!
+S!@dpu.schematic1(sch_1):ins1506440@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C66!.\chipsView.dat!!!!!!F216!!!!!!!
+S!@dpu.schematic1(sch_1):ins1508441@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C146!.\chipsView.dat!!!!!!F232!!!!!!!
+S!@dpu.schematic1(sch_1):ins1506466@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C17!.\chipsView.dat!!!!!!F231!!!!!!!
+S!@dpu.schematic1(sch_1):ins2230566@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_10UF!C34!.\chipsView.dat!!!!!!F227!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072075@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_1UF!C95!.\chipsView.dat!!!!!!F199!!!!!!!
+S!@dpu.schematic1(sch_1):ins1609533@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_1UF!C143!.\chipsView.dat!!!!!!F200!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071615@library1.\max20416atgd/v+.normal\(chips)!MAX20416ATGD/V+_TQFN-24_MAX20416ATGD/V+!U11!.\chipsView.dat!!!!!!F27!!!!!!!
+S!@dpu.schematic1(sch_1):ins1587410@library1.\max20416atgd/v+.normal\(chips)!MAX20416ATGD/V+_TQFN-24_MAX20416ATGD/V+!U14!.\chipsView.dat!!!!!!F26!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071769@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_33UF!C97!.\chipsView.dat!!!!!!F197!!!!!!!
+S!@dpu.schematic1(sch_1):ins1599601@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_33UF!C144!.\chipsView.dat!!!!!!F198!!!!!!!
+S!@dpu.schematic1(sch_1):ins1615814@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_20PF!C53!.\chipsView.dat!!!!!!F176!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072183@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_47UF!C98!.\chipsView.dat!!!!!!F195!!!!!!!
+S!@dpu.schematic1(sch_1):ins1616734@discrete.\cap np.normal\(chips)!CAP NP_C1206_SMT_47UF!C145!.\chipsView.dat!!!!!!F196!!!!!!!
+S!@dpu.schematic1(sch_1):ins1616858@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_39PF!C52!.\chipsView.dat!!!!!!F177!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071677@discrete.\inductor.normal\(chips)!INDUCTOR_IND_SMD_4D4X4D2_1UH/1A!L1!.\chipsView.dat!!!!!!F137!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072099@discrete.\inductor.normal\(chips)!INDUCTOR_IND_SMD_4D4X4D2_1UH/1A!L2!.\chipsView.dat!!!!!!F136!!!!!!!
+S!@dpu.schematic1(sch_1):ins1599533@discrete.\inductor.normal\(chips)!INDUCTOR_IND_SMD_4D4X4D2_1UH/1A!L3!.\chipsView.dat!!!!!!F135!!!!!!!
+S!@dpu.schematic1(sch_1):ins1616698@discrete.\inductor.normal\(chips)!INDUCTOR_IND_SMD_4D4X4D2_1UH/1A!L4!.\chipsView.dat!!!!!!F134!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072319@discrete.\r.normal\(chips)!R_R0402_SMT_100K!R3!.\chipsView.dat!!!!!!F82!!!!!!!
+S!@dpu.schematic1(sch_1):ins1616790@discrete.\r.normal\(chips)!R_R0402_SMT_100K!R40!.\chipsView.dat!!!!!!F81!!!!!!!
+S!@dpu.schematic1(sch_1):ins1613552@discrete.\r.normal\(chips)!R_R0402_SMT_120K!R47!.\chipsView.dat!!!!!!F76!!!!!!!
+S!@dpu.schematic1(sch_1):ins1613585@discrete.\r.normal\(chips)!R_R0402_SMT_48K!R41!.\chipsView.dat!!!!!!F78!!!!!!!
+S!@dpu.schematic1(sch_1):ins1616806@discrete.\r.normal\(chips)!R_R0402_SMT_125K!R46!.\chipsView.dat!!!!!!F77!!!!!!!
+S!@dpu.schematic1(sch_1):ins2338592@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!C12!.\chipsView.dat!!!!!!F205!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071883@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!C14!.\chipsView.dat!!!!!!F203!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072355@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!C13!.\chipsView.dat!!!!!!F204!!!!!!!
+S!@dpu.schematic1(sch_1):ins1637284@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!C50!.\chipsView.dat!!!!!!F202!!!!!!!
+S!@dpu.schematic1(sch_1):ins1642221@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!C51!.\chipsView.dat!!!!!!F201!!!!!!!
+S!@dpu.schematic1(sch_1):ins1594032@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!D18!.\chipsView.dat!!!!!!F155!!!!!!!
+S!@dpu.schematic1(sch_1):ins1594109@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!D19!.\chipsView.dat!!!!!!F154!!!!!!!
+S!@dpu.schematic1(sch_1):ins1594183@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!D17!.\chipsView.dat!!!!!!F156!!!!!!!
+S!@dpu.schematic1(sch_1):ins3307617@library1.\conn-1x8.normal\(chips)!CONN-1X8_FPC-0D5-8P_CONN-1X8!J9!.\chipsView.dat!!!!!!F141!!!!!!!
+S!@dpu.schematic1(sch_1):ins1209390@library1.\conn-1x8.normal\(chips)!CONN-1X8_FPC-0D5-8P_CONN-1X8!J5!.\chipsView.dat!!!!!!F142!!!!!!!
+S!@dpu.schematic1(sch_1):ins757291@library1.\ov5640-fpc-24p-dvp.normal\(chips)!OV5640-FPC-24P-DVP_FPC-0D5-24P_FPC-05F-24PH20!J6!.\chipsView.dat!!!!!!F140!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071713@discrete.\r.normal\(chips)!R_R0402_SMT_10K!R66!.\chipsView.dat!!!!!!F56!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072131@discrete.\r.normal\(chips)!R_R0402_SMT_10K!R65!.\chipsView.dat!!!!!!F57!!!!!!!
+S!@dpu.schematic1(sch_1):ins1627697@discrete.\r.normal\(chips)!R_R0402_SMT_10K!R77!.\chipsView.dat!!!!!!F54!!!!!!!
+S!@dpu.schematic1(sch_1):ins1630402@discrete.\r.normal\(chips)!R_R0402_SMT_10K!R76!.\chipsView.dat!!!!!!F55!!!!!!!
+S!@dpu.schematic1(sch_1):ins3195197@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R59!.\chipsView.dat!!!!!!F119!!!!!!!
+S!@dpu.schematic1(sch_1):ins3194727@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R5!.\chipsView.dat!!!!!!F121!!!!!!!
+S!@dpu.schematic1(sch_1):ins3110912@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R1!.\chipsView.dat!!!!!!F126!!!!!!!
+S!@dpu.schematic1(sch_1):ins3111617@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R35!.\chipsView.dat!!!!!!F124!!!!!!!
+S!@dpu.schematic1(sch_1):ins2872114@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R44!.\chipsView.dat!!!!!!F122!!!!!!!
+S!@dpu.schematic1(sch_1):ins2872140@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R42!.\chipsView.dat!!!!!!F123!!!!!!!
+S!@dpu.schematic1(sch_1):ins1634788@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R57!.\chipsView.dat!!!!!!F120!!!!!!!
+S!@dpu.schematic1(sch_1):ins2071791@discrete.\r.normal\(chips)!R_R0402_SMT_0R!R18!.\chipsView.dat!!!!!!F125!!!!!!!
+S!@dpu.schematic1(sch_1):ins3111258@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R2!.\chipsView.dat!!!!!!F103!!!!!!!
+S!@dpu.schematic1(sch_1):ins3111587@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R36!.\chipsView.dat!!!!!!F102!!!!!!!
+S!@dpu.schematic1(sch_1):ins2877956@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R45!.\chipsView.dat!!!!!!F100!!!!!!!
+S!@dpu.schematic1(sch_1):ins2877982@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R43!.\chipsView.dat!!!!!!F101!!!!!!!
+S!@dpu.schematic1(sch_1):ins2072055@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R19!.\chipsView.dat!!!!!!F104!!!!!!!
+S!@dpu.schematic1(sch_1):ins1634752@discrete.\r.normal\(chips)!R_R0402_SMT_DNP!R58!.\chipsView.dat!!!!!!F99!!!!!!!
+S!@dpu.schematic1(sch_1):ins2230488@library1.\tlv75515pdbvr.normal\(chips)!TLV75515PDBVR_SOT-23-5_TLV75515PDBVR!U8!.\chipsView.dat!!!!!!F5!!!!!!!
+S!@dpu.schematic1(sch_1):ins1022303@library1.\cat25512hu5i-gt3.normal\(chips)!CAT25512HU5I-GT3_UDFN-8-2X3_CAT25512HU5I-GT3!U4!.\chipsView.dat!!!!!!F22!!!!!!!

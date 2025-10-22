@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildStatus>
+    <Strategy name="Strategy1">
+        <Milestone name="Export" build_result="2" build_time="1752488553">
+            <Task name="Bitgen" build_result="2" update_result="0" update_time="1752488553"/>
+            <Task name="IBIS" build_result="0" update_result="3" update_time="0"/>
+            <Task name="TimingSimFileVlg" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Map" build_result="2" build_time="1752488357">
+            <Task name="Map" build_result="2" update_result="0" update_time="1752488357"/>
+            <Task name="MapTrace" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="PAR" build_result="2" build_time="1752488481">
+            <Task name="PAR" build_result="2" update_result="0" update_time="1752488481"/>
+            <Task name="PostParVM" build_result="0" update_result="3" update_time="0"/>
+            <Task name="PARTrace" build_result="2" update_result="0" update_time="1752488490"/>
+            <Task name="IOTiming" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Milestone name="Synthesis" build_result="2" build_time="1752488342">
+            <Task name="Lattice_Synthesis" build_result="2" update_result="0" update_time="1752488342"/>
+            <Task name="LSE_Compile" build_result="0" update_result="2" update_time="1752488553"/>
+            <Task name="LSE_Lint" build_result="0" update_result="3" update_time="0"/>
+            <Task name="SynTrace" build_result="0" update_result="3" update_time="0"/>
+            <Task name="SynVerilogSimFile" build_result="0" update_result="3" update_time="0"/>
+        </Milestone>
+        <Report name="POF_DPU_FW_impl_1.bgn" last_build_time="1752488552" last_build_size="4580"/>
+        <Report name="POF_DPU_FW_impl_1.bit" last_build_time="1752488552" last_build_size="814258"/>
+        <Report name="POF_DPU_FW_impl_1.lsedata" last_build_time="0" last_build_size="0"/>
+        <Report name="POF_DPU_FW_impl_1.twr.html" last_build_time="1752488489" last_build_size="780488"/>
+        <Report name="POF_DPU_FW_impl_1.udb" last_build_time="1752488481" last_build_size="1464824"/>
+        <Report name="POF_DPU_FW_impl_1_map.udb" last_build_time="1752488355" last_build_size="754742"/>
+        <Report name="POF_DPU_FW_impl_1_rtl.udb" last_build_time="0" last_build_size="0"/>
+        <Report name="POF_DPU_FW_impl_1_syn.udb" last_build_time="1752488336" last_build_size="1212496"/>
+    </Strategy>
+</BuildStatus>

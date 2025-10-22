@@ -1,0 +1,31 @@
+<Project Date="2025-07-14" ModBy="Inserter" Name="F:/3-MyLaptopDIR/PoFDualCAM/2-DPU/HyperRAM_Version/Code/POF_DPU_FW/Reveal_HyperRAM.rvl" SigType="0">
+    <IP Version="1_6_042617"/>
+    <Design DesignEntry="Schematic/Verilog HDL" DesignName="POF_DPU_FW" DeviceFamily="LIFCL" DeviceName="LIFCL-40" JTAG="hard" Stage="presyn" Synthesis="lse"/>
+    <Core ID="0" Insert="1" InsertDataset="0" Name="POF_DPU_TOP_LA0" Reveal_sig="635249679">
+        <Setting>
+            <Clock EnableClk="" EnableClk_Pri="0" SampleClk="clk_100MHz_i" SampleEnable="0"/>
+            <TraceBuffer BitTimeStamp="0" BufferDepth="4096" Implementation="0" IncTrigSig="1" hasTimeStamp="0"/>
+            <Capture MinSamplesPerTrig="256" Mode="0"/>
+            <Event CntEnable="0" MaxEventCnt="8"/>
+            <TrigOut EnableTrigOut="0" MinPulseWidth="0" Polarity="0" TrigOutNet="reveal_debug_POF_DPU_TOP_LA0_net" TrigOutNetType="1"/>
+            <DistRAM Disable="0"/>
+        </Setting>
+        <Dataset Name="Base">
+            <Trigger>
+                <TU ID="1" Serialbits="0" Sig="myOV5640_DVP/oWrClk," Type="0"/>
+                <TU ID="2" Serialbits="0" Sig="myOV5640_DVP/oWrEn," Type="0"/>
+                <TU ID="3" Serialbits="0" Sig="(BUS)myOV5640_DVP/oWrData[7:0]," Type="0"/>
+                <TU ID="4" Serialbits="0" Sig="myOV5640_DVP/oWrFrmDone," Type="0"/>
+                <TU ID="5" Serialbits="0" Sig="(BUS)myOV5640_DVP/oWrFrmBytes[31:0]," Type="0"/>
+                <TU ID="6" Serialbits="0" Sig="myHyperRAM/oRd_EnFIFO," Type="0"/>
+                <TU ID="7" Serialbits="0" Sig="myHyperRAM/oClk_RdFIFO," Type="0"/>
+                <TU ID="8" Serialbits="0" Sig="(BUS)myHyperRAM/iRd_DataFIFO[127:0]," Type="0"/>
+                <TU ID="9" Serialbits="0" Sig="full_FIFO," Type="0"/>
+                <TU ID="10" Serialbits="0" Sig="empty_FIFO," Type="0"/>
+                <TU ID="11" Serialbits="0" Sig="myOV5640_DVP/HSYNC_i," Type="0"/>
+                <TU ID="12" Serialbits="0" Sig="myOV5640_DVP/PCLK_i," Type="0"/>
+                <TE ID="1" MaxEvnCnt="1" MaxSequence="2" Resource="0"/>
+            </Trigger>
+        </Dataset>
+    </Core>
+</Project>

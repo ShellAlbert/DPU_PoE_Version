@@ -1,0 +1,223 @@
+<!DOCTYPE ispTLA>
+<ispTLA>
+ <CreationDate>Mon Jul 14 15:40:33 2025</CreationDate>
+ <XCFFileName/>
+ <CableSetting>
+  <IsTRSTConnected val="false"/>
+  <TRSTSetting val="0"/>
+  <IsBSCANConnected val="false"/>
+  <BSCANSetting val="0"/>
+  <CableType val="USB2"/>
+  <PortAddress val="1"/>
+  <PortSetting val="0"/>
+  <TCKDelay val="3"/>
+ </CableSetting>
+ <DeviceCount>1</DeviceCount>
+ <Device>
+  <DeviceIndex>0</DeviceIndex>
+  <DeviceName>1. LIFCL-40</DeviceName>
+  <DeviceID>0x110F1043 (debug enabled)</DeviceID>
+  <HasIspTRACY>true</HasIspTRACY>
+  <HasJTAG2WB>false</HasJTAG2WB>
+  <SERDES/>
+  <IRBypassLen>8</IRBypassLen>
+  <RVLFileName>Reveal_HyperRAM.rvl</RVLFileName>
+  <RVSFileName>Reveal_HyperRAM.rvs</RVSFileName>
+  <LACoreCount>1</LACoreCount>
+  <WinUI CoreIndex="0" CoreType="LA">
+   <TraceSigTreeData>
+    <TraceSignal Color="" IsHidden="false" Name="CS" NodeType="0" PortIndex="0"/>
+    <TraceSignal Color="" IsHidden="false" Name="CK" NodeType="0" PortIndex="1"/>
+    <TraceSignal Color="" IsHidden="false" Name="ioRWDS0" NodeType="0" PortIndex="2"/>
+    <TraceSignal Color="" IsHidden="false" Name="RWDS0_In_Rising" NodeType="0" PortIndex="168"/>
+    <TraceSignal Color="" IsHidden="false" Name="RWDS1_In_Falling" NodeType="0" PortIndex="169"/>
+    <TraceSignal Color="" IsHidden="false" Name="DQInD2" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="3"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:15" NodeType="2" PortIndex="19"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:14" NodeType="2" PortIndex="18"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:13" NodeType="2" PortIndex="17"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:12" NodeType="2" PortIndex="16"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:11" NodeType="2" PortIndex="15"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:10" NodeType="2" PortIndex="14"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:9" NodeType="2" PortIndex="13"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:8" NodeType="2" PortIndex="12"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:7" NodeType="2" PortIndex="11"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:6" NodeType="2" PortIndex="10"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:5" NodeType="2" PortIndex="9"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:4" NodeType="2" PortIndex="8"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:3" NodeType="2" PortIndex="7"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:2" NodeType="2" PortIndex="6"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:1" NodeType="2" PortIndex="5"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Falling_D2:0" NodeType="2" PortIndex="4"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="DQInD2F" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="3"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:15" NodeType="2" PortIndex="35"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:14" NodeType="2" PortIndex="34"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:13" NodeType="2" PortIndex="33"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:12" NodeType="2" PortIndex="32"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:11" NodeType="2" PortIndex="31"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:10" NodeType="2" PortIndex="30"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:9" NodeType="2" PortIndex="29"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:8" NodeType="2" PortIndex="28"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:7" NodeType="2" PortIndex="27"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:6" NodeType="2" PortIndex="26"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:5" NodeType="2" PortIndex="25"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:4" NodeType="2" PortIndex="24"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:3" NodeType="2" PortIndex="23"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:2" NodeType="2" PortIndex="22"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:1" NodeType="2" PortIndex="21"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/DQ_In_Rising_D2:0" NodeType="2" PortIndex="20"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="iClk" NodeType="0" PortIndex="167"/>
+    <TraceSignal Color="" IsHidden="false" Name="oRdData" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="3"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:127" NodeType="2" PortIndex="163"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:126" NodeType="2" PortIndex="162"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:125" NodeType="2" PortIndex="161"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:124" NodeType="2" PortIndex="160"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:123" NodeType="2" PortIndex="159"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:122" NodeType="2" PortIndex="158"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:121" NodeType="2" PortIndex="157"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:120" NodeType="2" PortIndex="156"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:119" NodeType="2" PortIndex="155"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:118" NodeType="2" PortIndex="154"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:117" NodeType="2" PortIndex="153"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:116" NodeType="2" PortIndex="152"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:115" NodeType="2" PortIndex="151"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:114" NodeType="2" PortIndex="150"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:113" NodeType="2" PortIndex="149"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:112" NodeType="2" PortIndex="148"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:111" NodeType="2" PortIndex="147"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:110" NodeType="2" PortIndex="146"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:109" NodeType="2" PortIndex="145"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:108" NodeType="2" PortIndex="144"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:107" NodeType="2" PortIndex="143"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:106" NodeType="2" PortIndex="142"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:105" NodeType="2" PortIndex="141"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:104" NodeType="2" PortIndex="140"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:103" NodeType="2" PortIndex="139"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:102" NodeType="2" PortIndex="138"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:101" NodeType="2" PortIndex="137"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:100" NodeType="2" PortIndex="136"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:99" NodeType="2" PortIndex="135"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:98" NodeType="2" PortIndex="134"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:97" NodeType="2" PortIndex="133"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:96" NodeType="2" PortIndex="132"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:95" NodeType="2" PortIndex="131"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:94" NodeType="2" PortIndex="130"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:93" NodeType="2" PortIndex="129"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:92" NodeType="2" PortIndex="128"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:91" NodeType="2" PortIndex="127"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:90" NodeType="2" PortIndex="126"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:89" NodeType="2" PortIndex="125"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:88" NodeType="2" PortIndex="124"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:87" NodeType="2" PortIndex="123"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:86" NodeType="2" PortIndex="122"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:85" NodeType="2" PortIndex="121"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:84" NodeType="2" PortIndex="120"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:83" NodeType="2" PortIndex="119"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:82" NodeType="2" PortIndex="118"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:81" NodeType="2" PortIndex="117"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:80" NodeType="2" PortIndex="116"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:79" NodeType="2" PortIndex="115"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:78" NodeType="2" PortIndex="114"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:77" NodeType="2" PortIndex="113"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:76" NodeType="2" PortIndex="112"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:75" NodeType="2" PortIndex="111"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:74" NodeType="2" PortIndex="110"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:73" NodeType="2" PortIndex="109"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:72" NodeType="2" PortIndex="108"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:71" NodeType="2" PortIndex="107"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:70" NodeType="2" PortIndex="106"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:69" NodeType="2" PortIndex="105"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:68" NodeType="2" PortIndex="104"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:67" NodeType="2" PortIndex="103"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:66" NodeType="2" PortIndex="102"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:65" NodeType="2" PortIndex="101"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:64" NodeType="2" PortIndex="100"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:63" NodeType="2" PortIndex="99"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:62" NodeType="2" PortIndex="98"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:61" NodeType="2" PortIndex="97"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:60" NodeType="2" PortIndex="96"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:59" NodeType="2" PortIndex="95"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:58" NodeType="2" PortIndex="94"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:57" NodeType="2" PortIndex="93"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:56" NodeType="2" PortIndex="92"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:55" NodeType="2" PortIndex="91"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:54" NodeType="2" PortIndex="90"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:53" NodeType="2" PortIndex="89"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:52" NodeType="2" PortIndex="88"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:51" NodeType="2" PortIndex="87"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:50" NodeType="2" PortIndex="86"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:49" NodeType="2" PortIndex="85"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:48" NodeType="2" PortIndex="84"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:47" NodeType="2" PortIndex="83"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:46" NodeType="2" PortIndex="82"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:45" NodeType="2" PortIndex="81"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:44" NodeType="2" PortIndex="80"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:43" NodeType="2" PortIndex="79"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:42" NodeType="2" PortIndex="78"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:41" NodeType="2" PortIndex="77"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:40" NodeType="2" PortIndex="76"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:39" NodeType="2" PortIndex="75"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:38" NodeType="2" PortIndex="74"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:37" NodeType="2" PortIndex="73"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:36" NodeType="2" PortIndex="72"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:35" NodeType="2" PortIndex="71"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:34" NodeType="2" PortIndex="70"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:33" NodeType="2" PortIndex="69"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:32" NodeType="2" PortIndex="68"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:31" NodeType="2" PortIndex="67"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:30" NodeType="2" PortIndex="66"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:29" NodeType="2" PortIndex="65"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:28" NodeType="2" PortIndex="64"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:27" NodeType="2" PortIndex="63"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:26" NodeType="2" PortIndex="62"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:25" NodeType="2" PortIndex="61"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:24" NodeType="2" PortIndex="60"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:23" NodeType="2" PortIndex="59"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:22" NodeType="2" PortIndex="58"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:21" NodeType="2" PortIndex="57"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:20" NodeType="2" PortIndex="56"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:19" NodeType="2" PortIndex="55"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:18" NodeType="2" PortIndex="54"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:17" NodeType="2" PortIndex="53"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:16" NodeType="2" PortIndex="52"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:15" NodeType="2" PortIndex="51"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:14" NodeType="2" PortIndex="50"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:13" NodeType="2" PortIndex="49"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:12" NodeType="2" PortIndex="48"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:11" NodeType="2" PortIndex="47"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:10" NodeType="2" PortIndex="46"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:9" NodeType="2" PortIndex="45"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:8" NodeType="2" PortIndex="44"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:7" NodeType="2" PortIndex="43"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:6" NodeType="2" PortIndex="42"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:5" NodeType="2" PortIndex="41"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:4" NodeType="2" PortIndex="40"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:3" NodeType="2" PortIndex="39"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:2" NodeType="2" PortIndex="38"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:1" NodeType="2" PortIndex="37"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/oRdData:0" NodeType="2" PortIndex="36"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="opDone" NodeType="0" PortIndex="3"/>
+    <TraceSignal Color="" IsHidden="false" Name="OpReq" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="2"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/iOpReq:2" NodeType="2" PortIndex="166"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/iOpReq:1" NodeType="2" PortIndex="165"/>
+     <TraceSignal Color="" IsHidden="false" Name="myHyperRAM/hyperRAM_W958D6NBKX/iOpReq:0" NodeType="2" PortIndex="164"/>
+    </TraceSignal>
+   </TraceSigTreeData>
+   <TriggerUI PreSelect="1" PreSelectType="0" UserSelect="0" UserSelectPos="0"/>
+   <CoreRun Run="true"/>
+   <CoreWndUIData>
+    <ClockFrequency Frequency="-1.0" Unit="ns"/>
+   </CoreWndUIData>
+  </WinUI>
+ </Device>
+</ispTLA>

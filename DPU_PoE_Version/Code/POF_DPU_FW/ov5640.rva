@@ -1,0 +1,68 @@
+<!DOCTYPE ispTLA>
+<ispTLA>
+ <CreationDate>Wed Jul 9 10:25:04 2025</CreationDate>
+ <XCFFileName/>
+ <CableSetting>
+  <IsTRSTConnected val="false"/>
+  <TRSTSetting val="0"/>
+  <IsBSCANConnected val="false"/>
+  <BSCANSetting val="0"/>
+  <CableType val="USB2"/>
+  <PortAddress val="1"/>
+  <PortSetting val="0"/>
+  <TCKDelay val="3"/>
+ </CableSetting>
+ <DeviceCount>1</DeviceCount>
+ <Device>
+  <DeviceIndex>0</DeviceIndex>
+  <DeviceName>1. LIFCL-40</DeviceName>
+  <DeviceID>0x110F1043 (debug enabled)</DeviceID>
+  <HasIspTRACY>true</HasIspTRACY>
+  <HasJTAG2WB>false</HasJTAG2WB>
+  <SERDES/>
+  <IRBypassLen>8</IRBypassLen>
+  <RVLFileName>Reveal_HyperRAM.rvl</RVLFileName>
+  <RVSFileName>Reveal_HyperRAM.rvs</RVSFileName>
+  <LACoreCount>1</LACoreCount>
+  <WinUI CoreIndex="0" CoreType="LA">
+   <TraceSigTreeData>
+    <TraceSignal Color="" IsHidden="false" Name="PCLK_i" NodeType="0" PortIndex="0"/>
+    <TraceSignal Color="" IsHidden="false" Name="HSYNC_i" NodeType="0" PortIndex="1"/>
+    <TraceSignal Color="" IsHidden="false" Name="wrEn" NodeType="0" PortIndex="2"/>
+    <TraceSignal Color="" IsHidden="false" Name="wrData" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:7" NodeType="2" PortIndex="10"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:6" NodeType="2" PortIndex="9"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:5" NodeType="2" PortIndex="8"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:4" NodeType="2" PortIndex="7"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:3" NodeType="2" PortIndex="6"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:2" NodeType="2" PortIndex="5"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:1" NodeType="2" PortIndex="4"/>
+     <TraceSignal Color="" IsHidden="false" Name="myOV5640_DVP/oWrData:0" NodeType="2" PortIndex="3"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="wrClk" NodeType="0" PortIndex="11"/>
+    <TraceSignal Color="" IsHidden="false" Name="Full" NodeType="0" PortIndex="12"/>
+    <TraceSignal Color="" IsHidden="false" Name="RdFIFO" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:7" NodeType="2" PortIndex="20"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:6" NodeType="2" PortIndex="19"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:5" NodeType="2" PortIndex="18"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:4" NodeType="2" PortIndex="17"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:3" NodeType="2" PortIndex="16"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:2" NodeType="2" PortIndex="15"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:1" NodeType="2" PortIndex="14"/>
+     <TraceSignal Color="" IsHidden="false" Name="rd_DataFIFO:0" NodeType="2" PortIndex="13"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="rdEn" NodeType="0" PortIndex="21"/>
+    <TraceSignal Color="" IsHidden="false" Name="clkRdFIFO" NodeType="0" PortIndex="22"/>
+   </TraceSigTreeData>
+   <TriggerUI PreSelect="1" PreSelectType="1" UserSelect="0" UserSelectPos="0"/>
+   <CoreRun Run="true"/>
+   <CoreWndUIData>
+    <ClockFrequency Frequency="-1.0" Unit="ns"/>
+   </CoreWndUIData>
+  </WinUI>
+ </Device>
+</ispTLA>

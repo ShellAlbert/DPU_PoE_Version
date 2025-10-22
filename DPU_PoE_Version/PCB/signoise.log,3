@@ -1,0 +1,7 @@
+INFO: Loaded existing interconnect file 'F:\3-MyLaptopDIR\DPU_PoE_Version\PCB\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_22.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_86
+INFO: Executing command: bem2d 0 "C:/Users/SNIPER/AppData/Local/Temp/#Taaaael08624.in" 0.00127
+INFO: Loaded existing device file 'F:\3-MyLaptopDIR\DPU_PoE_Version\PCB\devices.dml'
+INFO: Finished loading SigNoise device libraries

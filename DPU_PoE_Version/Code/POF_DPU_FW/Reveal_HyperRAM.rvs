@@ -1,0 +1,26 @@
+<Project Date="2025-07-14" ModBy="Analyzer" Name="F:/3-MyLaptopDIR/PoFDualCAM/2-DPU/HyperRAM_Version/Code/POF_DPU_FW/Reveal_HyperRAM.rvs">
+ <Core Name="POF_DPU_TOP_LA0">
+  <Setting>
+   <Capture NumTrigsCap="1" SamplesPerTrig="4096"/>
+   <Event CntEnableRun="0" EventCnt="0"/>
+   <TrigSetting AND_ALL="0" PostTrgSamples="" PreTrgSamples="" TURadix="0"/>
+  </Setting>
+  <Dataset Name="Base">
+   <Trigger>
+    <TU ID="1" Index="0" Name="WrClk" Operator="0" Radix="0" Value="0"/>
+    <TU ID="2" Index="1" Name="WrEn" Operator="6" Radix="0" Value="0"/>
+    <TU ID="3" Index="3" Name="WrData" Operator="0" Radix="0" Value="00000000"/>
+    <TU ID="4" Index="4" Name="WrFrmDone" Operator="0" Radix="0" Value="0"/>
+    <TU ID="5" Index="5" Name="WrFrmBytes" Operator="0" Radix="0" Value="00000000000000000000000000000000"/>
+    <TU ID="6" Index="6" Name="RdEn" Operator="0" Radix="0" Value="0"/>
+    <TU ID="7" Index="7" Name="RdClk" Operator="0" Radix="0" Value="0"/>
+    <TU ID="8" Index="8" Name="RdData" Operator="0" Radix="0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
+    <TU ID="9" Index="9" Name="Full" Operator="7" Radix="0" Value="0"/>
+    <TU ID="10" Index="10" Name="Empty" Operator="0" Radix="0" Value="0"/>
+    <TU ID="11" Index="2" Name="HSYNC_i" Operator="0" Radix="0" Value="0"/>
+    <TU ID="12" Index="12" Name="PCLK_i" Operator="0" Radix="0" Value="0"/>
+    <TE Enable="1" Expression="HSYNC_i" ID="1" Index="0" Name="TE1"/>
+   </Trigger>
+  </Dataset>
+ </Core>
+</Project>

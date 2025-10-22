@@ -1,0 +1,89 @@
+Sat Oct 11 17:31:59 2025				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sat Oct 11 17:31:59 2025
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : DPU_PoE_A1_Oct-13.brd                         )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Sat Oct 11 17:31:59 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Oct 11 17:31:59 2025				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'F:/3-MyLaptopDIR/DPU_PoE_Version/PCB/DPU_PoE_A1_Oct-13.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/SNIPER/AppData/Local/Temp/#Taaaacu15020.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           F:/MyTemporary/Github/PhotonDetector/Processing_Board/PCB/Footprint/psm 
+           F:/MyTemporary/Github/AllegroPCBFootprints/psm 
+           F:/MyTemporary/Github/AllegroPCBFootprints/mechanical 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_22.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_22.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_22.1/share/pcb/allegrolib/symbols 
+           F:/MyTemporary/Github/PhotonDetector/Processing_Board/PCB/Footprint/pad 
+           F:/MyTemporary/Github/AllegroPCBFootprints/pad 
+           F:/MyTemporary/Github/AllegroPCBFootprints/via 
+           F:/MyTemporary/Github/AllegroPCBFootprints/shape 
+
+
+------ Symbol Refresh Messages ------
+
+'RJ-45-POE'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'THR_CIR_1D0_1D5'  pad stack refreshed successfully.
+'THR_CIR_1D5_1D1'  pad stack refreshed successfully.
+'THR_CIR_2D2_1D8'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+
