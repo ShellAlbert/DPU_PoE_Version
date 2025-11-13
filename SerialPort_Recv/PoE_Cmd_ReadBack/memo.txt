@@ -1,0 +1,18 @@
+1. Power On and waiting 1 minute.
+2. send UART commands to get data back.
+3.
+FF AA BB CC A1/A3 55
+
+Infrared Image:
+FF AA BB CC A1 55
+
+Visible-Light Image
+FF AA BB CC A3 55
+
+2Mbps.
+
+
+use xTools to send commands on ttyUSB1.
+use /home/rhino/PoF_Cmd_RdBack/ttyUSB0_2M_Rx.bin to receive.
+ghex to remove sync headers of visible-light image.
+
