@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<RadiantModule architecture="je5d00" date="2025 07 01 18:43:30" device="LIFCL-40" device_int="je5d30" display_module="OSC" display_vendor="latticesemi.com" family="LIFCL" gen_platform="Radiant" gen_platform_version="2024.2.0.3.0" generator="ipgen" library="module" module="osc" name="ZOSC" operation="Industrial" package="CABGA256" package_int="CABGA256" partnumber="LIFCL-40-7BG256I" source_format="Verilog" speed="7_High-Performance_1.0V" speed_int="10" vendor="latticesemi.com" version="1.4.0">
+ <Package>
+  <File modified="2025 07 01 18:43:30" name="rtl/ZOSC_bb.v" type="black_box_verilog"/>
+  <File modified="2025 07 01 18:43:30" name="ZOSC.cfg" type="cfg"/>
+  <File modified="2025 07 01 18:43:30" name="misc/ZOSC_tmpl.v" type="template_verilog"/>
+  <File modified="2025 07 01 18:43:30" name="misc/ZOSC_tmpl.vhd" type="template_vhdl"/>
+  <File modified="2025 07 01 18:43:30" name="rtl/ZOSC.v" type="top_level_verilog"/>
+  <File modified="2025 07 01 18:43:30" name="constraints/ZOSC.ldc" type="timing_constraints"/>
+  <File modified="2025 07 01 18:43:30" name="testbench/dut_params.v" type="dependency_file"/>
+  <File modified="2025 07 01 18:43:30" name="testbench/dut_inst.v" type="dependency_file"/>
+  <File modified="2025 07 01 18:43:30" name="component.xml" type="IP-XACT_component"/>
+  <File modified="2025 07 01 18:43:30" name="design.xml" type="IP-XACT_design"/>
+  <File modified="2023 09 19 23:00:13" name="testbench/tb_top.v" type="testbench_verilog"/>
+ </Package>
+</RadiantModule>

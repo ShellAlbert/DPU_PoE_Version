@@ -1,0 +1,29 @@
+<Project Date="2025-09-01" ModBy="Inserter" Name="C:/POF_DPU_FW/POF_DPU_FW_1.rvl" SigType="0">
+    <IP Version="1_6_042617"/>
+    <Design DesignEntry="Schematic/Verilog HDL" DesignName="POF_DPU_FW" DeviceFamily="LIFCL" DeviceName="LIFCL-40" JTAG="hard" Stage="presyn" Synthesis="lse"/>
+    <Core ID="0" Insert="1" InsertDataset="0" Name="POF_DPU_TOP_LA0" Reveal_sig="641900268">
+        <Setting>
+            <Clock EnableClk="" EnableClk_Pri="0" SampleClk="clk_100MHz_i" SampleEnable="0"/>
+            <TraceBuffer BitTimeStamp="0" BufferDepth="8192" Implementation="0" IncTrigSig="1" hasTimeStamp="0"/>
+            <Capture MinSamplesPerTrig="32" Mode="0"/>
+            <Event CntEnable="0" MaxEventCnt="8"/>
+            <TrigOut EnableTrigOut="0" MinPulseWidth="0" Polarity="0" TrigOutNet="reveal_debug_POF_DPU_TOP_LA0_net" TrigOutNetType="1"/>
+            <DistRAM Disable="0"/>
+        </Setting>
+        <Dataset Name="Base">
+            <Trigger>
+                <TU ID="1" Serialbits="0" Sig="oW5500_CSN," Type="0"/>
+                <TU ID="2" Serialbits="0" Sig="oW5500_MOSI," Type="0"/>
+                <TU ID="3" Serialbits="0" Sig="oW5500_SCLK," Type="0"/>
+                <TU ID="4" Serialbits="0" Sig="iW5500_MISO," Type="0"/>
+                <TU ID="5" Serialbits="0" Sig="(BUS)myW5500/step_i[7:0]," Type="0"/>
+                <TU ID="6" Serialbits="0" Sig="(BUS)myW5500/step_i_return[7:0]," Type="0"/>
+                <TU ID="7" Serialbits="0" Sig="(BUS)myW5500/myW5500_SPI/iDataPhase[7:0]," Type="0"/>
+                <TU ID="8" Serialbits="0" Sig="(BUS)myW5500/myW5500_SPI/oDataPhase[7:0]," Type="0"/>
+                <TU ID="9" Serialbits="0" Sig="myW5500/myW5500_SPI/oOpDone," Type="0"/>
+                <TU ID="10" Serialbits="0" Sig="(BUS)myW5500/tmpDR[7:0]," Type="0"/>
+                <TE ID="1" MaxEvnCnt="1" MaxSequence="2" Resource="0"/>
+            </Trigger>
+        </Dataset>
+    </Core>
+</Project>

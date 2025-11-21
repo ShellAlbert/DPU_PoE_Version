@@ -1,0 +1,107 @@
+<!DOCTYPE ispTLA>
+<ispTLA>
+ <CreationDate>Wed Aug 27 17:04:17 2025</CreationDate>
+ <XCFFileName/>
+ <CableSetting>
+  <IsTRSTConnected val="false"/>
+  <TRSTSetting val="0"/>
+  <IsBSCANConnected val="false"/>
+  <BSCANSetting val="0"/>
+  <CableType val="USB2"/>
+  <PortAddress val="0"/>
+  <PortSetting val="0"/>
+  <TCKDelay val="3"/>
+ </CableSetting>
+ <DeviceCount>1</DeviceCount>
+ <Device>
+  <DeviceIndex>0</DeviceIndex>
+  <DeviceName>1. LIFCL-40</DeviceName>
+  <DeviceID>0x110F1043 (debug enabled)</DeviceID>
+  <HasIspTRACY>true</HasIspTRACY>
+  <HasJTAG2WB>false</HasJTAG2WB>
+  <SERDES/>
+  <IRBypassLen>8</IRBypassLen>
+  <RVLFileName>POF_DPU_FW_1.rvl</RVLFileName>
+  <RVSFileName>POF_DPU_FW_1.rvs</RVSFileName>
+  <LACoreCount>1</LACoreCount>
+  <WinUI CoreIndex="0" CoreType="LA">
+   <TraceSigTreeData>
+    <TraceSignal Color="" IsHidden="false" Name="CSN" NodeType="0" PortIndex="0"/>
+    <TraceSignal Color="" IsHidden="false" Name="MOSI" NodeType="0" PortIndex="1"/>
+    <TraceSignal Color="" IsHidden="false" Name="SCLK" NodeType="0" PortIndex="2"/>
+    <TraceSignal Color="" IsHidden="false" Name="MISO" NodeType="0" PortIndex="3"/>
+    <TraceSignal Color="" IsHidden="false" Name="doneVDM" NodeType="0" PortIndex="4"/>
+    <TraceSignal Color="" IsHidden="false" Name="InDataPhase_SPI" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:7" NodeType="2" PortIndex="12"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:6" NodeType="2" PortIndex="11"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:5" NodeType="2" PortIndex="10"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:4" NodeType="2" PortIndex="9"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:3" NodeType="2" PortIndex="8"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:2" NodeType="2" PortIndex="7"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:1" NodeType="2" PortIndex="6"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/myW5500_SPI/iDataPhase:0" NodeType="2" PortIndex="5"/>
+    </TraceSignal>
+    <TraceSignal Color="" IsHidden="false" Name="OpDone_SPI" NodeType="0" PortIndex="13"/>
+    <TraceSignal Color="" IsHidden="false" Name="MAC" NodeType="1" PortIndex="-1">
+     <BusRadix Radix="0"/>
+     <IsExpanded Expand="false"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:47" NodeType="2" PortIndex="61"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:46" NodeType="2" PortIndex="60"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:45" NodeType="2" PortIndex="59"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:44" NodeType="2" PortIndex="58"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:43" NodeType="2" PortIndex="57"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:42" NodeType="2" PortIndex="56"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:41" NodeType="2" PortIndex="55"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:40" NodeType="2" PortIndex="54"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:39" NodeType="2" PortIndex="53"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:38" NodeType="2" PortIndex="52"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:37" NodeType="2" PortIndex="51"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:36" NodeType="2" PortIndex="50"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:35" NodeType="2" PortIndex="49"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:34" NodeType="2" PortIndex="48"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:33" NodeType="2" PortIndex="47"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:32" NodeType="2" PortIndex="46"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:31" NodeType="2" PortIndex="45"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:30" NodeType="2" PortIndex="44"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:29" NodeType="2" PortIndex="43"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:28" NodeType="2" PortIndex="42"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:27" NodeType="2" PortIndex="41"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:26" NodeType="2" PortIndex="40"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:25" NodeType="2" PortIndex="39"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:24" NodeType="2" PortIndex="38"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:23" NodeType="2" PortIndex="37"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:22" NodeType="2" PortIndex="36"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:21" NodeType="2" PortIndex="35"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:20" NodeType="2" PortIndex="34"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:19" NodeType="2" PortIndex="33"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:18" NodeType="2" PortIndex="32"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:17" NodeType="2" PortIndex="31"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:16" NodeType="2" PortIndex="30"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:15" NodeType="2" PortIndex="29"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:14" NodeType="2" PortIndex="28"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:13" NodeType="2" PortIndex="27"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:12" NodeType="2" PortIndex="26"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:11" NodeType="2" PortIndex="25"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:10" NodeType="2" PortIndex="24"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:9" NodeType="2" PortIndex="23"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:8" NodeType="2" PortIndex="22"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:7" NodeType="2" PortIndex="21"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:6" NodeType="2" PortIndex="20"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:5" NodeType="2" PortIndex="19"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:4" NodeType="2" PortIndex="18"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:3" NodeType="2" PortIndex="17"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:2" NodeType="2" PortIndex="16"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:1" NodeType="2" PortIndex="15"/>
+     <TraceSignal Color="" IsHidden="false" Name="myW5500/PHY_MAC:0" NodeType="2" PortIndex="14"/>
+    </TraceSignal>
+   </TraceSigTreeData>
+   <TriggerUI PreSelect="1" PreSelectType="0" UserSelect="0" UserSelectPos="0"/>
+   <CoreRun Run="true"/>
+   <CoreWndUIData>
+    <ClockFrequency Frequency="-1.0" Unit="ns"/>
+   </CoreWndUIData>
+  </WinUI>
+ </Device>
+</ispTLA>

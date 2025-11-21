@@ -1,0 +1,24 @@
+<Project Date="2025-09-01" ModBy="Analyzer" Name="C:/POF_DPU_FW/POF_DPU_FW_1.rvs">
+ <Core Name="POF_DPU_TOP_LA0">
+  <Setting>
+   <Capture NumTrigsCap="1" SamplesPerTrig="8192"/>
+   <Event CntEnableRun="0" EventCnt="0"/>
+   <TrigSetting AND_ALL="0" PostTrgSamples="" PreTrgSamples="" TURadix="0"/>
+  </Setting>
+  <Dataset Name="Base">
+   <Trigger>
+    <TU ID="1" Index="0" Name="CS" Operator="0" Radix="0" Value="0"/>
+    <TU ID="2" Index="1" Name="MOSI" Operator="0" Radix="0" Value="0"/>
+    <TU ID="3" Index="4" Name="CLK" Operator="0" Radix="0" Value="0"/>
+    <TU ID="4" Index="6" Name="MISO" Operator="0" Radix="0" Value="0"/>
+    <TU ID="5" Index="7" Name="step_i" Operator="0" Radix="2" Value="32"/>
+    <TU ID="6" Index="8" Name="step_i_return" Operator="0" Radix="0" Value="00000000"/>
+    <TU ID="7" Index="2" Name="iDataPhase" Operator="0" Radix="0" Value="00000000"/>
+    <TU ID="8" Index="3" Name="oDataPhase" Operator="0" Radix="0" Value="00000000"/>
+    <TU ID="9" Index="5" Name="OpDone" Operator="0" Radix="0" Value="0"/>
+    <TU ID="10" Index="10" Name="tmpDR" Operator="0" Radix="0" Value="00000000"/>
+    <TE Enable="1" Expression="step_i" ID="1" Index="0" Name="TE1"/>
+   </Trigger>
+  </Dataset>
+ </Core>
+</Project>

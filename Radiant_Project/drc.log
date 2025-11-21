@@ -1,0 +1,237 @@
+DRC: Design Rule Check Radiant Software (64-bit) 2024.2.0.3.0
+Tue Nov 11 16:03:32 2025
+
+WARNING <71003020> - Top module port 'ioH1_RWDS0' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_RWDS1' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[15]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[14]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[13]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[12]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[11]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[10]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[9]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[8]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[7]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[6]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[5]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[4]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[3]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[2]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[1]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH1_D[0]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_RWDS0' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_RWDS1' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[15]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[14]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[13]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[12]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[11]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[10]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[9]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[8]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[7]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[6]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[5]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[4]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[3]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[2]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[1]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioH2_D[0]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_PCLK' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_VSYNC' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_HSYNC' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[13]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[12]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[11]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[10]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[9]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[8]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[7]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[6]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[5]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[4]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[3]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[2]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[1]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_Data[0]' does not connect to anything.
+WARNING <71003020> - Top module port 'iIR_UART_RX' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_PCLK' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_HSYNC' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_VSYNC' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[7]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[6]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[5]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[4]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[3]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[2]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[1]' does not connect to anything.
+WARNING <71003020> - Top module port 'iDVP_D[0]' does not connect to anything.
+WARNING <71003020> - Top module port 'ioDVP_SDA' does not connect to anything.
+WARNING <71003020> - Top module port 'iSPI_SI' does not connect to anything.
+WARNING <71003020> - Top module port 'iW5500_INTN' does not connect to anything.
+WARNING <71003020> - Top module port 'oAD7988_SDI' does not connect to anything.
+WARNING <71003020> - Top module port 'iDBG_UART_RX' does not connect to anything.
+ERROR <71003031> - IO placement will fail due to Bank Vccio compatibility. To correct this issue, please use more Bank VCCIO compatible IO attribute combinations, reduce the number of different IO attribute combinations, and/or change to a larger device with more IO Banks.
+The following is information that can help with addressing the IO placement Bank VCCIO compatibility issue:
+Design has 28 IOs to be placed across 8 IO Banks
+	Bank 0 with capacity 12 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 1 with capacity 20 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 2 with capacity 13 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 3 with capacity 32 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 4 with capacity 32 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 5 with capacity 10 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 6 with capacity 26 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+	Bank 7 with capacity 11 can/should have Bank VCCIO value(s) [1.8] based on current design Constraints
+Port oLED3 can have Bank Vccio value(s) [1.8]
+Port oLED2 can have Bank Vccio value(s) [1.8]
+Port iW5500_MISO can have Bank Vccio value(s) [3.3]
+Port iClk_25MHz can have Bank Vccio value(s) [1.8]
+Port oDBG_UART_TX can have Bank Vccio value(s) [3.3]
+Port oAD7988_SCK can have Bank Vccio value(s) [3.3]
+Port oAD7988_LED can have Bank Vccio value(s) [3.3]
+Port oW5500_RSTN can have Bank Vccio value(s) [1.8]
+Port oW5500_MOSI can have Bank Vccio value(s) [1.8]
+Port oLED1 can have Bank Vccio value(s) [1.8]
+Port iAD7988_SDO can have Bank Vccio value(s) [3.3]
+Port oH1_RSTN can have Bank Vccio value(s) [1.8]
+Port oAD7988_CNV can have Bank Vccio value(s) [3.3]
+Port oDVP_SCL can have Bank Vccio value(s) [1.8]
+Port oIR_UART_TX can have Bank Vccio value(s) [1.8]
+Port oH2_CKP can have Bank Vccio value(s) [1.8]
+Port oH2_RSTN can have Bank Vccio value(s) [1.8]
+Port oIR_PWR_EN can have Bank Vccio value(s) [1.8]
+Port oH2_CSN can have Bank Vccio value(s) [1.8]
+Port oSPI_CS can have Bank Vccio value(s) [1.8]
+Port oH1_CSN can have Bank Vccio value(s) [1.8]
+Port oW5500_CSN can have Bank Vccio value(s) [1.8]
+Port oSPI_SO can have Bank Vccio value(s) [1.8]
+Port oDVP_RST can have Bank Vccio value(s) [1.8]
+Port oH1_CKP can have Bank Vccio value(s) [1.8]
+Port oW5500_SCLK can have Bank Vccio value(s) [1.8]
+Port oDVP_PWDN can have Bank Vccio value(s) [1.8]
+Port oSPI_SCK can have Bank Vccio value(s) [1.8]
+
+WARNING <1027013> - No port matched 'iVersion_ID[0]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (112) : Can't resolve object 'iVersion_ID[0]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iVersion_ID[0]}]'.
+WARNING <1027013> - No port matched 'iVersion_ID[1]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (113) : Can't resolve object 'iVersion_ID[1]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iVersion_ID[1]}]'.
+WARNING <1027013> - No port matched 'iVersion_ID[1]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (115) : Can't resolve object 'iVersion_ID[1]' in constraint 'ldc_set_location -site {J15} [get_ports {iVersion_ID[1]}]'.
+WARNING <1027013> - No port matched 'iUV_UART_RX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (156) : Can't resolve object 'iUV_UART_RX' in constraint 'ldc_set_location -site {T11} [get_ports iUV_UART_RX]'.
+WARNING <1027013> - No port matched 'iUV_UART_RX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (157) : Can't resolve object 'iUV_UART_RX' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports iUV_UART_RX]'.
+WARNING <1027013> - No port matched 'oUV_UART_TX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (158) : Can't resolve object 'oUV_UART_TX' in constraint 'ldc_set_location -site {T10} [get_ports oUV_UART_TX]'.
+WARNING <1027013> - No port matched 'oUV_UART_TX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (159) : Can't resolve object 'oUV_UART_TX' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports oUV_UART_TX]'.
+WARNING <1027013> - No port matched 'oUV_PWR_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (160) : Can't resolve object 'oUV_PWR_EN' in constraint 'ldc_set_location -site {E16} [get_ports oUV_PWR_EN]'.
+WARNING <1027013> - No port matched 'oUV_PWR_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (161) : Can't resolve object 'oUV_PWR_EN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oUV_PWR_EN]'.
+WARNING <1027013> - No port matched 'iSYNC_O'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (162) : Can't resolve object 'iSYNC_O' in constraint 'ldc_set_location -site {E9} [get_ports iSYNC_O]'.
+WARNING <1027013> - No port matched 'iSYNC_O'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (163) : Can't resolve object 'iSYNC_O' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports iSYNC_O]'.
+WARNING <1027013> - No port matched 'iBT1120_D[7]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (164) : Can't resolve object 'iBT1120_D[7]' in constraint 'ldc_set_location -site {F9} [get_ports {iBT1120_D[7]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[7]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (165) : Can't resolve object 'iBT1120_D[7]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[7]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[6]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (166) : Can't resolve object 'iBT1120_D[6]' in constraint 'ldc_set_location -site {F16} [get_ports {iBT1120_D[6]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[6]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (167) : Can't resolve object 'iBT1120_D[6]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[6]}]'.
+WARNING <1027013> - No port matched 'iBT1120_CLK'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (168) : Can't resolve object 'iBT1120_CLK' in constraint 'ldc_set_location -site {E10} [get_ports iBT1120_CLK]'.
+WARNING <1027013> - No port matched 'iBT1120_CLK'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (169) : Can't resolve object 'iBT1120_CLK' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports iBT1120_CLK]'.
+WARNING <1027013> - No port matched 'iBT1120_D[5]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (170) : Can't resolve object 'iBT1120_D[5]' in constraint 'ldc_set_location -site {G12} [get_ports {iBT1120_D[5]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[5]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (171) : Can't resolve object 'iBT1120_D[5]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[5]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[4]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (172) : Can't resolve object 'iBT1120_D[4]' in constraint 'ldc_set_location -site {G11} [get_ports {iBT1120_D[4]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[4]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (173) : Can't resolve object 'iBT1120_D[4]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[4]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[2]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (174) : Can't resolve object 'iBT1120_D[2]' in constraint 'ldc_set_location -site {H11} [get_ports {iBT1120_D[2]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[2]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (175) : Can't resolve object 'iBT1120_D[2]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[2]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[0]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (176) : Can't resolve object 'iBT1120_D[0]' in constraint 'ldc_set_location -site {H10} [get_ports {iBT1120_D[0]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[0]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (177) : Can't resolve object 'iBT1120_D[0]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[0]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[3]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (178) : Can't resolve object 'iBT1120_D[3]' in constraint 'ldc_set_location -site {H12} [get_ports {iBT1120_D[3]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[3]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (179) : Can't resolve object 'iBT1120_D[3]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[3]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[1]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (180) : Can't resolve object 'iBT1120_D[1]' in constraint 'ldc_set_location -site {J11} [get_ports {iBT1120_D[1]}]'.
+WARNING <1027013> - No port matched 'iBT1120_D[1]'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (181) : Can't resolve object 'iBT1120_D[1]' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports {iBT1120_D[1]}]'.
+WARNING <1027013> - No port matched 'oIO_P5V0_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (212) : Can't resolve object 'oIO_P5V0_SHDN' in constraint 'ldc_set_location -site {H1} [get_ports oIO_P5V0_SHDN]'.
+WARNING <1027013> - No port matched 'oIO_P5V0_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (213) : Can't resolve object 'oIO_P5V0_SHDN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oIO_P5V0_SHDN]'.
+WARNING <1027013> - No port matched 'oIAM_ALIVE'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (214) : Can't resolve object 'oIAM_ALIVE' in constraint 'ldc_set_location -site {J1} [get_ports oIAM_ALIVE]'.
+WARNING <1027013> - No port matched 'oIAM_ALIVE'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (215) : Can't resolve object 'oIAM_ALIVE' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oIAM_ALIVE]'.
+WARNING <1027013> - No port matched 'oLD_PWR_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (216) : Can't resolve object 'oLD_PWR_EN' in constraint 'ldc_set_location -site {E5} [get_ports oLD_PWR_EN]'.
+WARNING <1027013> - No port matched 'oLD_PWR_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (217) : Can't resolve object 'oLD_PWR_EN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oLD_PWR_EN]'.
+WARNING <1027013> - No port matched 'iDPU_RX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (218) : Can't resolve object 'iDPU_RX' in constraint 'ldc_set_location -site {P1} [get_ports iDPU_RX]'.
+WARNING <1027013> - No port matched 'iDPU_RX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (219) : Can't resolve object 'iDPU_RX' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports iDPU_RX]'.
+WARNING <1027013> - No port matched 'oTX_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (220) : Can't resolve object 'oTX_EN' in constraint 'ldc_set_location -site {K7} [get_ports oTX_EN]'.
+WARNING <1027013> - No port matched 'oTX_EN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (221) : Can't resolve object 'oTX_EN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports oTX_EN]'.
+WARNING <1027013> - No port matched 'oUART_T'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (222) : Can't resolve object 'oUART_T' in constraint 'ldc_set_location -site {G10} [get_ports oUART_T]'.
+WARNING <1027013> - No port matched 'oUART_T'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (223) : Can't resolve object 'oUART_T' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oUART_T]'.
+WARNING <1027013> - No port matched 'oUART_T_LD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (224) : Can't resolve object 'oUART_T_LD' in constraint 'ldc_set_location -site {G9} [get_ports oUART_T_LD]'.
+WARNING <1027013> - No port matched 'oUART_T_LD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (225) : Can't resolve object 'oUART_T_LD' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oUART_T_LD]'.
+WARNING <1027013> - No port matched 'oClkUsed'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (226) : Can't resolve object 'oClkUsed' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports oClkUsed]'.
+WARNING <1027013> - No port matched 'oClkUsed'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (227) : Can't resolve object 'oClkUsed' in constraint 'ldc_set_location -site {M16} [get_ports oClkUsed]'.
+WARNING <1027013> - No port matched 'TDO'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (229) : Can't resolve object 'TDO' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports TDO]'.
+WARNING <1027013> - No port matched 'TDI'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (230) : Can't resolve object 'TDI' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports TDI]'.
+WARNING <1027013> - No port matched 'TMS'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (231) : Can't resolve object 'TMS' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports TMS]'.
+WARNING <1027013> - No port matched 'TCK'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (232) : Can't resolve object 'TCK' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18 PULLMODE=DOWN VREF=OFF} [get_ports TCK]'.
+WARNING <1027013> - No port matched 'L640_iRxD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (256) : Can't resolve object 'L640_iRxD' in constraint 'ldc_set_location -site {T12} [get_ports L640_iRxD]'.
+WARNING <1027013> - No port matched 'L640_oTxD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (257) : Can't resolve object 'L640_oTxD' in constraint 'ldc_set_location -site {T13} [get_ports L640_oTxD]'.
+WARNING <1027013> - No port matched 'L640_iRxD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (258) : Can't resolve object 'L640_iRxD' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports L640_iRxD]'.
+WARNING <1027013> - No port matched 'L640_iRxD'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (259) : Can't resolve object 'L640_iRxD' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports L640_iRxD]'.
+WARNING <1027013> - No port matched 'L640_P1V8_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (263) : Can't resolve object 'L640_P1V8_SHDN' in constraint 'ldc_set_location -site {R16} [get_ports L640_P1V8_SHDN]'.
+WARNING <1027013> - No port matched 'L640_P3V3_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (264) : Can't resolve object 'L640_P3V3_SHDN' in constraint 'ldc_set_location -site {J12} [get_ports L640_P3V3_SHDN]'.
+WARNING <1027013> - No port matched 'L640_P1V8_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (265) : Can't resolve object 'L640_P1V8_SHDN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports L640_P1V8_SHDN]'.
+WARNING <1027013> - No port matched 'L640_P3V3_SHDN'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (266) : Can't resolve object 'L640_P3V3_SHDN' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports L640_P3V3_SHDN]'.
+WARNING <1027013> - No port matched 'oUltrasonic_70KHz'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (279) : Can't resolve object 'oUltrasonic_70KHz' in constraint 'ldc_set_location -site {T9} [get_ports oUltrasonic_70KHz]'.
+WARNING <1027013> - No port matched 'oUltrasonic_LED'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (280) : Can't resolve object 'oUltrasonic_LED' in constraint 'ldc_set_location -site {J16} [get_ports oUltrasonic_LED]'.
+WARNING <1027013> - No port matched 'oUltrasonic_70KHz'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (281) : Can't resolve object 'oUltrasonic_70KHz' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18H} [get_ports oUltrasonic_70KHz]'.
+WARNING <1027013> - No port matched 'oUltrasonic_LED'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (282) : Can't resolve object 'oUltrasonic_LED' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oUltrasonic_LED]'.
+WARNING <1027013> - No port matched 'oDPU_TX'.
+WARNING <1026001> - C:/POF_DPU_FW/source/impl_1/ZPhysicalPins.pdc (288) : Can't resolve object 'oDPU_TX' in constraint 'ldc_set_port -iobuf {IO_TYPE=LVCMOS18} [get_ports oDPU_TX]'.
